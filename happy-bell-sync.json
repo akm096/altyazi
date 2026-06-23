@@ -1,0 +1,109 @@
+{
+  "watchlist": {
+    "797484498": {
+      "currentTime": 0.293342,
+      "duration": 1381.1295559999958,
+      "embedId": "797484498",
+      "episode": 1,
+      "lastWatchedAt": 1782159092277,
+      "malAnimeId": 36649,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+      "season": 1,
+      "title": "Banana Fish",
+      "totalEpisodes": 24,
+      "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
+    },
+    "2830385732637979": {
+      "currentTime": 1259.70529,
+      "duration": 1426.1309999999871,
+      "embedId": "2830385732637979",
+      "episode": 12,
+      "lastWatchedAt": 1782130636219,
+      "malAnimeId": 51553,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
+      "season": 1,
+      "title": "Tongari Boushi no Atelier",
+      "totalEpisodes": 13,
+      "urlTemplate": "https://x.anizium.co/embed?id=2830385732637979&season=1&episode=12&server=2&skin=art&u=69617296101&plan=1"
+    },
+    "3281611228677324": {
+      "currentTime": 707.797871,
+      "duration": 762.8849999999964,
+      "embedId": "3281611228677324",
+      "episode": 12,
+      "lastWatchedAt": 1782130571622,
+      "malAnimeId": 62076,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1768/156339.jpg",
+      "season": 1,
+      "title": "Super no Ura de Yani Suu Futari",
+      "totalEpisodes": 1,
+      "urlTemplate": "https://x.anizium.co/embed?id=3281611228677324&season=1&episode=12&server=2&skin=art&u=69617296101&plan=1&t=522"
+    },
+    "3390600761259741": {
+      "currentTime": 1407.28026,
+      "duration": 1420.052833,
+      "embedId": "3390600761259741",
+      "episode": 2,
+      "lastWatchedAt": 1782130455345,
+      "malAnimeId": 44516,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
+      "season": 1,
+      "title": "Koroshi Ai",
+      "totalEpisodes": 12,
+      "urlTemplate": "https://x.anizium.co/embed?id=3390600761259741&season=1&episode=2&server=2&skin=art&u=69617296101&plan=1"
+    }
+  },
+  "mappings": {
+    "791674752": {
+      "malAnimeId": 16498,
+      "malTitle": "Shingeki no Kyojin",
+      "mappedAt": 1781973306034,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+      "totalEpisodes": 25
+    },
+    "797484498": {
+      "malAnimeId": 36649,
+      "malTitle": "Banana Fish",
+      "mappedAt": 1782145512375,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+      "totalEpisodes": 24
+    },
+    "2830385732637979": {
+      "malAnimeId": 51553,
+      "malTitle": "Tongari Boushi no Atelier",
+      "mappedAt": 1781865681928,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
+      "totalEpisodes": 13
+    },
+    "2997473366119659": {
+      "malAnimeId": 62001,
+      "malTitle": "Yomi no Tsugai",
+      "mappedAt": 1781865963302,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1171/156397.jpg",
+      "totalEpisodes": 24
+    },
+    "3281611228677324": {
+      "malAnimeId": 62076,
+      "malTitle": "Super no Ura de Yani Suu Futari",
+      "mappedAt": 1781863098031,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1768/156339.jpg",
+      "totalEpisodes": 0
+    },
+    "3390600761259741": {
+      "malAnimeId": 44516,
+      "malTitle": "Koroshi Ai",
+      "mappedAt": 1782124925849,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
+      "totalEpisodes": 12
+    },
+    "3977040950226715": {
+      "malAnimeId": 52701,
+      "malTitle": "Dungeon Meshi",
+      "mappedAt": 1781946900615,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1711/142478.webp",
+      "totalEpisodes": 24
+    }
+  },
+  "deleted_mappings": {},
+  "updatedAt": 1782220817441
+}
