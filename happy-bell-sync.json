@@ -1,17 +1,17 @@
 {
   "watchlist": {
     "797484498": {
-      "currentTime": 0.293342,
-      "duration": 1381.1295559999958,
       "embedId": "797484498",
-      "episode": 1,
-      "lastWatchedAt": 1782159092277,
       "malAnimeId": 36649,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
-      "season": 1,
       "title": "Banana Fish",
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
       "totalEpisodes": 24,
-      "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
+      "season": 1,
+      "episode": 1,
+      "currentTime": 12.681179,
+      "duration": 1381.1295559999958,
+      "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1&t=0",
+      "lastWatchedAt": 1782400325019
     },
     "2830385732637979": {
       "currentTime": 1259.70529,
@@ -105,5 +105,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1782220817441
+  "updatedAt": 1782400335463
 }
