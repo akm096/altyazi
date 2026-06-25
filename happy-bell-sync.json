@@ -7,11 +7,11 @@
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
       "totalEpisodes": 24,
       "season": 1,
-      "episode": 6,
-      "currentTime": 551.891156,
-      "duration": 1381.1295559999928,
-      "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=6&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1782421987952
+      "episode": 7,
+      "currentTime": 738.304733,
+      "duration": 1381.1710779999955,
+      "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=7&server=2&skin=art&u=69617296101&plan=1",
+      "lastWatchedAt": 1782423633649
     },
     "2830385732637979": {
       "currentTime": 1259.70529,
@@ -105,5 +105,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1782421998529
+  "updatedAt": 1782423644299
 }
