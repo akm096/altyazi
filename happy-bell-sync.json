@@ -8,10 +8,10 @@
       "totalEpisodes": 24,
       "season": 1,
       "episode": 3,
-      "currentTime": 293.433401,
+      "currentTime": 294.852244,
       "duration": 1381.1295559999944,
       "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=3&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1782413282239
+      "lastWatchedAt": 1782413340846
     },
     "2830385732637979": {
       "currentTime": 1259.70529,
@@ -105,5 +105,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1782413292929
+  "updatedAt": 1782413351837
 }
