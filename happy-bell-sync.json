@@ -8,10 +8,10 @@
       "totalEpisodes": 24,
       "season": 1,
       "episode": 14,
-      "currentTime": 48.258602,
+      "currentTime": 80.718579,
       "duration": 1381.0873329999902,
       "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=14&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1782472142803
+      "lastWatchedAt": 1782472221461
     },
     "2830385732637979": {
       "currentTime": 1259.70529,
@@ -105,5 +105,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1782472153265
+  "updatedAt": 1782472231918
 }
