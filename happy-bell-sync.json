@@ -8,10 +8,10 @@
       "totalEpisodes": 24,
       "season": 1,
       "episode": 17,
-      "currentTime": 405,
+      "currentTime": 773.879926,
       "duration": 1381.1710779999971,
       "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=17&server=2&skin=art&u=69617296101&plan=1&t=405",
-      "lastWatchedAt": 1782753779492
+      "lastWatchedAt": 1782754021305
     },
     "2830385732637979": {
       "currentTime": 1259.70529,
@@ -105,5 +105,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1782753789861
+  "updatedAt": 1782754031771
 }
