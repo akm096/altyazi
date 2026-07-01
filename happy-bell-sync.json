@@ -8,10 +8,10 @@
       "totalEpisodes": 24,
       "season": 1,
       "episode": 20,
-      "currentTime": 519.03869,
+      "currentTime": 527.114965,
       "duration": 1381.2956449999956,
       "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=20&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1782910764603
+      "lastWatchedAt": 1782911134208
     },
     "2830385732637979": {
       "currentTime": 1259.70529,
@@ -105,5 +105,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1782910775337
+  "updatedAt": 1782911145086
 }
