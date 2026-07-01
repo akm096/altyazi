@@ -51,6 +51,19 @@
       "title": "Koroshi Ai",
       "totalEpisodes": 12,
       "urlTemplate": "https://x.anizium.co/embed?id=3390600761259741&season=1&episode=2&server=2&skin=art&u=69617296101&plan=1"
+    },
+    "4149262909617863": {
+      "embedId": "4149262909617863",
+      "malAnimeId": 53126,
+      "title": "Yamada-kun to Lv999 no Koi wo Suru",
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1298/134178.webp",
+      "totalEpisodes": 13,
+      "season": 1,
+      "episode": 1,
+      "currentTime": 35.307239,
+      "duration": 1422.0039999999965,
+      "urlTemplate": "https://x.anizium.co/embed?id=4149262909617863&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1",
+      "lastWatchedAt": 1782923221611
     }
   },
   "mappings": {
@@ -112,5 +125,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1782923184702
+  "updatedAt": 1782923232234
 }
