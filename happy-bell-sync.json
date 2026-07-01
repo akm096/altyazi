@@ -102,8 +102,15 @@
       "mappedAt": 1781946900615,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1711/142478.webp",
       "totalEpisodes": 24
+    },
+    "4149262909617863": {
+      "malAnimeId": 53126,
+      "malTitle": "Yamada-kun to Lv999 no Koi wo Suru",
+      "totalEpisodes": 13,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1298/134178.webp",
+      "mappedAt": 1782923174149
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1782920779783
+  "updatedAt": 1782923184702
 }
