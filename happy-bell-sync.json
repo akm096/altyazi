@@ -21,10 +21,10 @@
       "totalEpisodes": 13,
       "season": 1,
       "episode": 13,
-      "currentTime": 997.425325,
+      "currentTime": 999.639468,
       "duration": 1421.0429999999892,
       "urlTemplate": "https://x.anizium.co/embed?id=2830385732637979&season=1&episode=13&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1783156694010
+      "lastWatchedAt": 1783156740917
     },
     "3281611228677324": {
       "currentTime": 707.797871,
@@ -125,5 +125,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783156704937
+  "updatedAt": 1783156752289
 }
