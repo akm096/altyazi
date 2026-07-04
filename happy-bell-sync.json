@@ -94,6 +94,13 @@
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
       "totalEpisodes": 24
     },
+    "867089702": {
+      "malAnimeId": 30,
+      "malTitle": "Shinseiki Evangelion",
+      "totalEpisodes": 26,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.webp",
+      "mappedAt": 1783171552038
+    },
     "2830385732637979": {
       "malAnimeId": 51553,
       "malTitle": "Tongari Boushi no Atelier",
@@ -145,5 +152,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783159752408
+  "updatedAt": 1783171562466
 }
