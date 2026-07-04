@@ -14,17 +14,17 @@
       "lastWatchedAt": 1782920768288
     },
     "2830385732637979": {
-      "currentTime": 1259.70529,
-      "duration": 1426.1309999999871,
       "embedId": "2830385732637979",
-      "episode": 12,
-      "lastWatchedAt": 1782130636219,
       "malAnimeId": 51553,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
-      "season": 1,
       "title": "Tongari Boushi no Atelier",
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
       "totalEpisodes": 13,
-      "urlTemplate": "https://x.anizium.co/embed?id=2830385732637979&season=1&episode=12&server=2&skin=art&u=69617296101&plan=1"
+      "season": 1,
+      "episode": 13,
+      "currentTime": 98.130243,
+      "duration": 1421.0429999999892,
+      "urlTemplate": "https://x.anizium.co/embed?id=2830385732637979&season=1&episode=13&server=2&skin=art&u=69617296101&plan=1",
+      "lastWatchedAt": 1783154839638
     },
     "3281611228677324": {
       "currentTime": 707.797871,
@@ -125,5 +125,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783014102272
+  "updatedAt": 1783154850664
 }
