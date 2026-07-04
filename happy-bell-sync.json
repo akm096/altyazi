@@ -122,8 +122,15 @@
       "totalEpisodes": 13,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1298/134178.webp",
       "mappedAt": 1782923174149
+    },
+    "2725013737474164": {
+      "malAnimeId": 22729,
+      "malTitle": "Aldnoah.Zero",
+      "totalEpisodes": 12,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/7/60263.jpg",
+      "mappedAt": 1783157514395
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783157432289
+  "updatedAt": 1783157525010
 }
