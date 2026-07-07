@@ -26,6 +26,19 @@
       "totalEpisodes": 26,
       "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=15&server=2&skin=art&u=69617296101&plan=1&t=99"
     },
+    "1868074734775945": {
+      "currentTime": 18.9095,
+      "duration": 2705.8093999999774,
+      "embedId": "1868074734775945",
+      "episode": 1,
+      "lastWatchedAt": 1783438952609,
+      "malAnimeId": 10408,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
+      "season": 1,
+      "title": "Hotarubi no Mori e",
+      "totalEpisodes": 1,
+      "urlTemplate": "https://x.anizium.co/embed?id=1868074734775945&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
+    },
     "2725013737474164": {
       "currentTime": 398.784688,
       "duration": 1420.1271109999973,
@@ -114,6 +127,13 @@
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.webp",
       "totalEpisodes": 26
     },
+    "1868074734775945": {
+      "malAnimeId": 10408,
+      "malTitle": "Hotarubi no Mori e",
+      "mappedAt": 1783438929982,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
+      "totalEpisodes": 1
+    },
     "2725013737474164": {
       "malAnimeId": 22729,
       "malTitle": "Aldnoah.Zero",
@@ -165,5 +185,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783438847817
+  "updatedAt": 1783438963089
 }
