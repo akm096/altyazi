@@ -26,32 +26,6 @@
       "totalEpisodes": 26,
       "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=15&server=2&skin=art&u=69617296101&plan=1&t=99"
     },
-    "2830385732637979": {
-      "currentTime": 1416.344828,
-      "duration": 1421.003,
-      "embedId": "2830385732637979",
-      "episode": 13,
-      "lastWatchedAt": 1783157421756,
-      "malAnimeId": 51553,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
-      "season": 1,
-      "title": "Tongari Boushi no Atelier",
-      "totalEpisodes": 13,
-      "urlTemplate": "https://x.anizium.co/embed?id=2830385732637979&season=1&episode=13&server=2&skin=art&u=69617296101&plan=1"
-    },
-    "3281611228677324": {
-      "currentTime": 707.797871,
-      "duration": 762.8849999999964,
-      "embedId": "3281611228677324",
-      "episode": 12,
-      "lastWatchedAt": 1782130571622,
-      "malAnimeId": 62076,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1768/156339.jpg",
-      "season": 1,
-      "title": "Super no Ura de Yani Suu Futari",
-      "totalEpisodes": 1,
-      "urlTemplate": "https://x.anizium.co/embed?id=3281611228677324&season=1&episode=12&server=2&skin=art&u=69617296101&plan=1&t=522"
-    },
     "3390600761259741": {
       "currentTime": 1407.28026,
       "duration": 1420.052833,
@@ -103,6 +77,32 @@
       "title": "Aldnoah.Zero",
       "totalEpisodes": 12,
       "urlTemplate": "https://x.anizium.co/embed?id=2725013737474164&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
+    },
+    "2830385732637979": {
+      "currentTime": 1416.344828,
+      "duration": 1421.003,
+      "embedId": "2830385732637979",
+      "episode": 13,
+      "lastWatchedAt": 1783157421756,
+      "malAnimeId": 51553,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
+      "season": 1,
+      "title": "Tongari Boushi no Atelier",
+      "totalEpisodes": 13,
+      "urlTemplate": "https://x.anizium.co/embed?id=2830385732637979&season=1&episode=13&server=2&skin=art&u=69617296101&plan=1"
+    },
+    "3281611228677324": {
+      "currentTime": 707.797871,
+      "duration": 762.8849999999964,
+      "embedId": "3281611228677324",
+      "episode": 12,
+      "lastWatchedAt": 1782130571622,
+      "malAnimeId": 62076,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1768/156339.jpg",
+      "season": 1,
+      "title": "Super no Ura de Yani Suu Futari",
+      "totalEpisodes": 1,
+      "urlTemplate": "https://x.anizium.co/embed?id=3281611228677324&season=1&episode=12&server=2&skin=art&u=69617296101&plan=1&t=522"
     }
   },
   "mappings": {
@@ -185,5 +185,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783444053148
+  "updatedAt": 1783444154233
 }
