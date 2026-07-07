@@ -1,43 +1,56 @@
 {
   "watchlist": {
     "797484498": {
-      "embedId": "797484498",
-      "malAnimeId": 36649,
-      "title": "Banana Fish",
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
-      "totalEpisodes": 24,
-      "season": 1,
-      "episode": 24,
       "currentTime": 1861.005644,
       "duration": 1861.005644,
-      "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=24&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1782920768288
+      "embedId": "797484498",
+      "episode": 24,
+      "lastWatchedAt": 1782920768288,
+      "malAnimeId": 36649,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+      "season": 1,
+      "title": "Banana Fish",
+      "totalEpisodes": 24,
+      "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=24&server=2&skin=art&u=69617296101&plan=1"
     },
     "867089702": {
-      "embedId": "867089702",
-      "malAnimeId": 30,
-      "title": "Shinseiki Evangelion",
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.webp",
-      "totalEpisodes": 26,
-      "season": 1,
-      "episode": 14,
       "currentTime": 1327.089433,
       "duration": 1423.2564029999987,
-      "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=14&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1783173381166
+      "embedId": "867089702",
+      "episode": 14,
+      "lastWatchedAt": 1783173381166,
+      "malAnimeId": 30,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.webp",
+      "season": 1,
+      "title": "Shinseiki Evangelion",
+      "totalEpisodes": 26,
+      "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=14&server=2&skin=art&u=69617296101&plan=1"
+    },
+    "2725013737474164": {
+      "currentTime": 398.784688,
+      "duration": 1420.1271109999973,
+      "embedId": "2725013737474164",
+      "episode": 1,
+      "lastWatchedAt": 1783159742106,
+      "malAnimeId": 22729,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/7/60263.jpg",
+      "season": 1,
+      "title": "Aldnoah.Zero",
+      "totalEpisodes": 12,
+      "urlTemplate": "https://x.anizium.co/embed?id=2725013737474164&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
     },
     "2830385732637979": {
-      "embedId": "2830385732637979",
-      "malAnimeId": 51553,
-      "title": "Tongari Boushi no Atelier",
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
-      "totalEpisodes": 13,
-      "season": 1,
-      "episode": 13,
       "currentTime": 1416.344828,
       "duration": 1421.003,
-      "urlTemplate": "https://x.anizium.co/embed?id=2830385732637979&season=1&episode=13&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1783157421756
+      "embedId": "2830385732637979",
+      "episode": 13,
+      "lastWatchedAt": 1783157421756,
+      "malAnimeId": 51553,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
+      "season": 1,
+      "title": "Tongari Boushi no Atelier",
+      "totalEpisodes": 13,
+      "urlTemplate": "https://x.anizium.co/embed?id=2830385732637979&season=1&episode=13&server=2&skin=art&u=69617296101&plan=1"
     },
     "3281611228677324": {
       "currentTime": 707.797871,
@@ -66,30 +79,17 @@
       "urlTemplate": "https://x.anizium.co/embed?id=3390600761259741&season=1&episode=2&server=2&skin=art&u=69617296101&plan=1"
     },
     "4149262909617863": {
-      "embedId": "4149262909617863",
-      "malAnimeId": 53126,
-      "title": "Yamada-kun to Lv999 no Koi wo Suru",
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1298/134178.webp",
-      "totalEpisodes": 13,
-      "season": 1,
-      "episode": 1,
       "currentTime": 5,
       "duration": 1422.0039999999965,
-      "urlTemplate": "https://x.anizium.co/embed?id=4149262909617863&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1&t=5",
-      "lastWatchedAt": 1783014090621
-    },
-    "2725013737474164": {
-      "embedId": "2725013737474164",
-      "malAnimeId": 22729,
-      "title": "Aldnoah.Zero",
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/7/60263.jpg",
-      "totalEpisodes": 12,
-      "season": 1,
+      "embedId": "4149262909617863",
       "episode": 1,
-      "currentTime": 398.784688,
-      "duration": 1420.1271109999973,
-      "urlTemplate": "https://x.anizium.co/embed?id=2725013737474164&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1783159742106
+      "lastWatchedAt": 1783014090621,
+      "malAnimeId": 53126,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1298/134178.webp",
+      "season": 1,
+      "title": "Yamada-kun to Lv999 no Koi wo Suru",
+      "totalEpisodes": 13,
+      "urlTemplate": "https://x.anizium.co/embed?id=4149262909617863&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1&t=5"
     }
   },
   "mappings": {
@@ -110,9 +110,16 @@
     "867089702": {
       "malAnimeId": 30,
       "malTitle": "Shinseiki Evangelion",
-      "totalEpisodes": 26,
+      "mappedAt": 1783171552038,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.webp",
-      "mappedAt": 1783171552038
+      "totalEpisodes": 26
+    },
+    "2725013737474164": {
+      "malAnimeId": 22729,
+      "malTitle": "Aldnoah.Zero",
+      "mappedAt": 1783157514395,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/7/60263.jpg",
+      "totalEpisodes": 12
     },
     "2830385732637979": {
       "malAnimeId": 51553,
@@ -152,18 +159,11 @@
     "4149262909617863": {
       "malAnimeId": 53126,
       "malTitle": "Yamada-kun to Lv999 no Koi wo Suru",
-      "totalEpisodes": 13,
+      "mappedAt": 1782923174149,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1298/134178.webp",
-      "mappedAt": 1782923174149
-    },
-    "2725013737474164": {
-      "malAnimeId": 22729,
-      "malTitle": "Aldnoah.Zero",
-      "totalEpisodes": 12,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/7/60263.jpg",
-      "mappedAt": 1783157514395
+      "totalEpisodes": 13
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783363588895
+  "updatedAt": 1783432152308
 }
