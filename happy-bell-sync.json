@@ -27,11 +27,11 @@
       "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=15&server=2&skin=art&u=69617296101&plan=1&t=99"
     },
     "1868074734775945": {
-      "currentTime": 18.9095,
+      "currentTime": 125.764836,
       "duration": 2705.8093999999774,
       "embedId": "1868074734775945",
       "episode": 1,
-      "lastWatchedAt": 1783438952609,
+      "lastWatchedAt": 1783439063056,
       "malAnimeId": 10408,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
       "season": 1,
@@ -185,5 +185,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783438963089
+  "updatedAt": 1783439073748
 }
