@@ -92,11 +92,11 @@
       "urlTemplate": "https://x.anizium.co/embed?id=3281611228677324&season=1&episode=12&server=2&skin=art&u=69617296101&plan=1&t=522"
     },
     "3390600761259741": {
-      "currentTime": 1275.441382,
+      "currentTime": 620.312873,
       "duration": 1420.129244999982,
       "embedId": "3390600761259741",
       "episode": 4,
-      "lastWatchedAt": 1783628410613,
+      "lastWatchedAt": 1783628423509,
       "malAnimeId": 44516,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
       "season": 1,
@@ -198,5 +198,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783628416481
+  "updatedAt": 1783628433882
 }
