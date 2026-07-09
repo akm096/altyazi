@@ -79,17 +79,17 @@
       "urlTemplate": "https://x.anizium.co/embed?id=3281611228677324&season=1&episode=12&server=2&skin=art&u=69617296101&plan=1&t=522"
     },
     "3390600761259741": {
-      "embedId": "3390600761259741",
-      "malAnimeId": 44516,
-      "title": "Koroshi Ai",
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
-      "totalEpisodes": 12,
-      "season": 1,
-      "episode": 3,
       "currentTime": 758.314171,
       "duration": 1420.0654999999817,
-      "urlTemplate": "https://x.anizium.co/embed?id=3390600761259741&season=1&episode=3&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1783445722938
+      "embedId": "3390600761259741",
+      "episode": 3,
+      "lastWatchedAt": 1783445722938,
+      "malAnimeId": 44516,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
+      "season": 1,
+      "title": "Koroshi Ai",
+      "totalEpisodes": 12,
+      "urlTemplate": "https://x.anizium.co/embed?id=3390600761259741&season=1&episode=3&server=2&skin=art&u=69617296101&plan=1"
     },
     "4149262909617863": {
       "currentTime": 5,
@@ -185,5 +185,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783601431432
+  "updatedAt": 1783604250098
 }
