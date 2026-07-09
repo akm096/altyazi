@@ -27,11 +27,11 @@
       "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=15&server=2&skin=art&u=69617296101&plan=1&t=99"
     },
     "1378101340814782": {
-      "currentTime": 0.213661,
+      "currentTime": 66.306886,
       "duration": 700.1180219999975,
       "embedId": "1378101340814782",
       "episode": 2,
-      "lastWatchedAt": 1783627960864,
+      "lastWatchedAt": 1783627970836,
       "malAnimeId": null,
       "posterUrl": "",
       "season": 2,
@@ -198,5 +198,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783627965539
+  "updatedAt": 1783627981161
 }
