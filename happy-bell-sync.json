@@ -31,7 +31,7 @@
       "duration": 700.1180219999975,
       "embedId": "1378101340814782",
       "episode": 2,
-      "lastWatchedAt": 1783628187523,
+      "lastWatchedAt": 1783628411246,
       "malAnimeId": null,
       "posterUrl": "",
       "season": 2,
@@ -96,7 +96,7 @@
       "duration": 1420.129244999982,
       "embedId": "3390600761259741",
       "episode": 4,
-      "lastWatchedAt": 1783628298674,
+      "lastWatchedAt": 1783628410613,
       "malAnimeId": 44516,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
       "season": 1,
@@ -198,5 +198,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783628306189
+  "updatedAt": 1783628416481
 }
