@@ -1,0 +1,3436 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-09T20:38:04.146Z",
+  "entries": [
+    {
+      "createdAt": "2026-07-09T20:20:18+00:00",
+      "externalIds": {
+        "mal": "44516"
+      },
+      "id": "mal_ae8a0ac8-3e51-4736-882f-bf6b86181894",
+      "lastWatchedAt": "2026-07-09T20:20:18+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 3,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "44516",
+          "lastSyncedAt": "2026-07-09T20:20:18+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Koroshi Ai",
+      "totalWatchedMinutes": 72,
+      "updatedAt": "2026-07-09T20:20:18+00:00"
+    },
+    {
+      "createdAt": "2026-07-07T16:21:41+00:00",
+      "externalIds": {
+        "mal": "10408"
+      },
+      "id": "mal_30bcfa8f-5f98-4aaf-b12c-0c06cda8eb02",
+      "lastWatchedAt": "2026-07-07T16:21:41+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "10408",
+          "lastSyncedAt": "2026-07-07T16:21:41+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Hotarubi no Mori e",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2026-07-07T16:21:41+00:00"
+    },
+    {
+      "createdAt": "2026-07-04T13:52:49+00:00",
+      "externalIds": {
+        "mal": "30"
+      },
+      "id": "mal_156b15ba-93e0-46a5-b4e3-fdc5d030638e",
+      "lastWatchedAt": "2026-07-04T13:52:49+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 14,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 26
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "30",
+          "lastSyncedAt": "2026-07-04T13:52:49+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Shinseiki Evangelion",
+      "totalWatchedMinutes": 336,
+      "updatedAt": "2026-07-04T13:52:49+00:00"
+    },
+    {
+      "createdAt": "2026-07-04T09:32:06+00:00",
+      "externalIds": {
+        "mal": "22729"
+      },
+      "id": "mal_51fafff0-e53c-4b10-a5d0-62183aa7d733",
+      "lastWatchedAt": "2026-07-04T09:32:06+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 0,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "22729",
+          "lastSyncedAt": "2026-07-04T09:32:06+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Aldnoah.Zero",
+      "totalWatchedMinutes": 0,
+      "updatedAt": "2026-07-04T09:32:06+00:00"
+    },
+    {
+      "createdAt": "2026-07-04T09:24:23+00:00",
+      "externalIds": {
+        "mal": "51553"
+      },
+      "id": "mal_1bf4d645-8083-4ec0-82e3-2ec9b7bd433d",
+      "lastWatchedAt": "2026-07-04T09:24:23+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 13,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "51553",
+          "lastSyncedAt": "2026-07-04T09:24:23+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Tongari Boushi no Atelier",
+      "totalWatchedMinutes": 312,
+      "updatedAt": "2026-07-04T09:24:23+00:00"
+    },
+    {
+      "createdAt": "2026-07-01T15:40:33+00:00",
+      "externalIds": {
+        "mal": "36649"
+      },
+      "id": "mal_8a753789-4b51-4d26-94b6-fa539b6b77ca",
+      "lastWatchedAt": "2026-07-01T15:40:33+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 24,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 10,
+      "serviceSync": {
+        "mal": {
+          "externalId": "36649",
+          "lastSyncedAt": "2026-07-01T15:40:33+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Banana Fish",
+      "totalWatchedMinutes": 576,
+      "updatedAt": "2026-07-01T15:40:33+00:00"
+    },
+    {
+      "createdAt": "2026-06-22T12:15:45+00:00",
+      "externalIds": {
+        "mal": "62076"
+      },
+      "id": "mal_b38b45ab-0221-457b-a10a-15841682efbd",
+      "lastWatchedAt": "2026-06-22T12:15:45+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 0
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "62076",
+          "lastSyncedAt": "2026-06-22T12:15:45+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Super no Ura de Yani Suu Futari",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2026-06-22T12:15:45+00:00"
+    },
+    {
+      "createdAt": "2026-06-06T09:05:05+00:00",
+      "externalIds": {
+        "mal": "49596"
+      },
+      "id": "mal_6aa976a6-4ef3-4012-8bfd-b3bea2891d39",
+      "lastWatchedAt": "2026-06-06T09:05:05+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "49596",
+          "lastSyncedAt": "2026-06-06T09:05:05+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Blue Lock",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2026-06-06T09:05:05+00:00"
+    },
+    {
+      "createdAt": "2026-05-31T09:21:03+00:00",
+      "externalIds": {
+        "mal": "62601"
+      },
+      "id": "mal_9a90669a-267c-4a6b-ae5e-f73b60f351fe",
+      "lastWatchedAt": "2026-05-31T09:21:03+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "62601",
+          "lastSyncedAt": "2026-05-31T09:21:03+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Marriagetoxin",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2026-05-31T09:21:03+00:00"
+    },
+    {
+      "createdAt": "2026-05-31T09:20:25+00:00",
+      "externalIds": {
+        "mal": "42897"
+      },
+      "id": "mal_8f8a8413-fd97-4d20-b6b9-d4445102d9fd",
+      "lastWatchedAt": "2026-05-31T09:20:25+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 9,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 7,
+      "serviceSync": {
+        "mal": {
+          "externalId": "42897",
+          "lastSyncedAt": "2026-05-31T09:20:25+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Horimiya",
+      "totalWatchedMinutes": 216,
+      "updatedAt": "2026-05-31T09:20:25+00:00"
+    },
+    {
+      "createdAt": "2026-05-31T09:20:12+00:00",
+      "externalIds": {
+        "mal": "40911"
+      },
+      "id": "mal_58414b50-04df-4693-87e5-f9fd664f63c4",
+      "lastWatchedAt": "2026-05-31T09:20:12+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 10,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 11
+      },
+      "score": 8,
+      "serviceSync": {
+        "mal": {
+          "externalId": "40911",
+          "lastSyncedAt": "2026-05-31T09:20:12+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Yuukoku no Moriarty",
+      "totalWatchedMinutes": 240,
+      "updatedAt": "2026-05-31T09:20:12+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:33:29+00:00",
+      "externalIds": {
+        "mal": "121"
+      },
+      "id": "mal_52ba1021-0022-4a24-87a1-b5134b7f8c9a",
+      "lastWatchedAt": "2026-04-28T08:33:29+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 2,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 51
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "121",
+          "lastSyncedAt": "2026-04-28T08:33:29+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Fullmetal Alchemist",
+      "totalWatchedMinutes": 48,
+      "updatedAt": "2026-04-28T08:33:29+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:33:12+00:00",
+      "externalIds": {
+        "mal": "48583"
+      },
+      "id": "mal_dcdb3330-3a59-4c6d-9435-945ad80d4c4f",
+      "lastWatchedAt": "2026-04-28T08:33:12+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "48583",
+          "lastSyncedAt": "2026-04-28T08:33:12+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shingeki no Kyojin: The Final Season Part 2",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2026-04-28T08:33:12+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:33:06+00:00",
+      "externalIds": {
+        "mal": "50602"
+      },
+      "id": "mal_3a4be41e-fba1-45a6-8b58-dc4ceda59a4e",
+      "lastWatchedAt": "2026-04-28T08:33:06+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "50602",
+          "lastSyncedAt": "2026-04-28T08:33:06+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Spy x Family Part 2",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2026-04-28T08:33:06+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:32:56+00:00",
+      "externalIds": {
+        "mal": "27891"
+      },
+      "id": "mal_0f4ee49b-636f-4d1f-a2e8-a34d82228f0b",
+      "lastWatchedAt": "2026-04-28T08:32:56+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "27891",
+          "lastSyncedAt": "2026-04-28T08:32:56+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sword Art Online II: Debriefing",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2026-04-28T08:32:56+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:32:49+00:00",
+      "externalIds": {
+        "mal": "36474"
+      },
+      "id": "mal_4c8fac00-a9f5-4ad6-8550-dd79bcb7d670",
+      "lastWatchedAt": "2026-04-28T08:32:49+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 24,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "36474",
+          "lastSyncedAt": "2026-04-28T08:32:49+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sword Art Online: Alicization",
+      "totalWatchedMinutes": 576,
+      "updatedAt": "2026-04-28T08:32:49+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:32:39+00:00",
+      "externalIds": {
+        "mal": "40540"
+      },
+      "id": "mal_e536639a-92ba-40ba-8e59-79f0ddc4c3f4",
+      "lastWatchedAt": "2026-04-28T08:32:39+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 11,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 11
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "40540",
+          "lastSyncedAt": "2026-04-28T08:32:39+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+      "totalWatchedMinutes": 264,
+      "updatedAt": "2026-04-28T08:32:39+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:32:28+00:00",
+      "externalIds": {
+        "mal": "25157"
+      },
+      "id": "mal_c9e0fd1e-3422-49d4-be0f-4f489b87130e",
+      "lastWatchedAt": "2026-04-28T08:32:28+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 2,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "25157",
+          "lastSyncedAt": "2026-04-28T08:32:28+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Trinity Seven",
+      "totalWatchedMinutes": 48,
+      "updatedAt": "2026-04-28T08:32:28+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:32:17+00:00",
+      "externalIds": {
+        "mal": "59160"
+      },
+      "id": "mal_77848a6d-1b7a-47ec-a054-b0239f83908e",
+      "lastWatchedAt": "2026-04-28T08:32:17+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "59160",
+          "lastSyncedAt": "2026-04-28T08:32:17+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Wind Breaker Season 2",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2026-04-28T08:32:17+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:30:48+00:00",
+      "externalIds": {
+        "mal": "60531"
+      },
+      "id": "mal_3bd182c2-7675-4bf0-92d5-e073f58f05fa",
+      "lastWatchedAt": "2026-04-28T08:30:48+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 3,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "60531",
+          "lastSyncedAt": "2026-04-28T08:30:48+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Bukiyou na Senpai.",
+      "totalWatchedMinutes": 72,
+      "updatedAt": "2026-04-28T08:30:48+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:30:11+00:00",
+      "externalIds": {
+        "mal": "62568"
+      },
+      "id": "mal_ba23f9de-cae1-4d39-b866-2add0799dfd4",
+      "lastWatchedAt": "2026-04-28T08:30:11+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 0,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "62568",
+          "lastSyncedAt": "2026-04-28T08:30:11+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Dr. Stone: Science Future Part 3",
+      "totalWatchedMinutes": 0,
+      "updatedAt": "2026-04-28T08:30:11+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:29:09+00:00",
+      "externalIds": {
+        "mal": "38671"
+      },
+      "id": "mal_a88a939a-0ff9-493a-8916-c67abb310329",
+      "lastWatchedAt": "2026-04-28T08:29:09+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "38671",
+          "lastSyncedAt": "2026-04-28T08:29:09+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Enen no Shouboutai",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2026-04-28T08:29:09+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:27:40+00:00",
+      "externalIds": {
+        "mal": "37105"
+      },
+      "id": "mal_628e0795-a258-4cbb-9d9c-f88001520929",
+      "lastWatchedAt": "2026-04-28T08:27:40+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 9,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "37105",
+          "lastSyncedAt": "2026-04-28T08:27:40+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Grand Blue",
+      "totalWatchedMinutes": 216,
+      "updatedAt": "2026-04-28T08:27:40+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:26:32+00:00",
+      "externalIds": {
+        "mal": "19"
+      },
+      "id": "mal_21c9b893-ac4e-44ff-ad47-6b1501915b74",
+      "lastWatchedAt": "2026-04-28T08:26:32+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 57,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 74
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "19",
+          "lastSyncedAt": "2026-04-28T08:26:32+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "paused",
+      "title": "Monster",
+      "totalWatchedMinutes": 1368,
+      "updatedAt": "2026-04-28T08:26:32+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:24:53+00:00",
+      "externalIds": {
+        "mal": "48556"
+      },
+      "id": "mal_ce808479-fd6f-4d98-8008-94af25410472",
+      "lastWatchedAt": "2026-04-28T08:24:53+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 7,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "48556",
+          "lastSyncedAt": "2026-04-28T08:24:53+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Takt Op. Destiny",
+      "totalWatchedMinutes": 168,
+      "updatedAt": "2026-04-28T08:24:53+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:24:24+00:00",
+      "externalIds": {
+        "mal": "58390"
+      },
+      "id": "mal_250a2d60-d747-4bb7-bca4-50d01ad199a1",
+      "lastWatchedAt": "2026-04-28T08:24:24+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 10,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "58390",
+          "lastSyncedAt": "2026-04-28T08:24:24+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Yofukashi no Uta Season 2",
+      "totalWatchedMinutes": 240,
+      "updatedAt": "2026-04-28T08:24:24+00:00"
+    },
+    {
+      "createdAt": "2026-04-28T08:23:50+00:00",
+      "externalIds": {
+        "mal": "53447"
+      },
+      "id": "mal_ff7890cd-d269-4755-b094-4d065181653f",
+      "lastWatchedAt": "2026-04-28T08:23:50+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 16,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "53447",
+          "lastSyncedAt": "2026-04-28T08:23:50+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Tu Bian Yingxiong X",
+      "totalWatchedMinutes": 384,
+      "updatedAt": "2026-04-28T08:23:50+00:00"
+    },
+    {
+      "createdAt": "2026-04-27T17:47:32+00:00",
+      "externalIds": {
+        "mal": "59192"
+      },
+      "id": "mal_b1b86281-8dc5-4668-a628-4ec93bea425f",
+      "lastWatchedAt": "2026-04-27T17:47:32+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "59192",
+          "lastSyncedAt": "2026-04-27T17:47:32+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2026-04-27T17:47:32+00:00"
+    },
+    {
+      "createdAt": "2026-04-25T18:55:03+00:00",
+      "externalIds": {
+        "mal": "60427"
+      },
+      "id": "mal_2b859659-8b9b-4170-9808-6d964df30ff3",
+      "lastWatchedAt": "2026-04-25T18:55:03+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 11,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 21
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "60427",
+          "lastSyncedAt": "2026-04-25T18:55:03+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Gnosia",
+      "totalWatchedMinutes": 264,
+      "updatedAt": "2026-04-25T18:55:03+00:00"
+    },
+    {
+      "createdAt": "2026-04-04T17:11:41+00:00",
+      "externalIds": {
+        "mal": "55825"
+      },
+      "id": "mal_3caf896d-5c29-4911-93f8-fb7a86815015",
+      "lastWatchedAt": "2026-04-04T17:11:41+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "55825",
+          "lastSyncedAt": "2026-04-04T17:11:41+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Jigokuraku 2nd Season",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2026-04-04T17:11:41+00:00"
+    },
+    {
+      "createdAt": "2026-03-01T18:31:58+00:00",
+      "externalIds": {
+        "mal": "59062"
+      },
+      "id": "mal_7f11e30b-76b2-4edc-bb44-b1bc15e05a70",
+      "lastWatchedAt": "2026-03-01T18:31:58+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 23,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "59062",
+          "lastSyncedAt": "2026-03-01T18:31:58+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Gachiakuta",
+      "totalWatchedMinutes": 552,
+      "updatedAt": "2026-03-01T18:31:58+00:00"
+    },
+    {
+      "createdAt": "2026-02-10T17:35:12+00:00",
+      "externalIds": {
+        "mal": "46569"
+      },
+      "id": "mal_9b67de0c-fad5-4996-8794-cfb53ca89593",
+      "lastWatchedAt": "2026-02-10T17:35:12+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 13,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 7,
+      "serviceSync": {
+        "mal": {
+          "externalId": "46569",
+          "lastSyncedAt": "2026-02-10T17:35:12+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Jigokuraku",
+      "totalWatchedMinutes": 312,
+      "updatedAt": "2026-02-10T17:35:12+00:00"
+    },
+    {
+      "createdAt": "2026-01-28T13:16:47+00:00",
+      "externalIds": {
+        "mal": "57555"
+      },
+      "id": "mal_5001f8b0-13ba-4e6d-a130-78eb61cdf010",
+      "lastWatchedAt": "2026-01-28T13:16:47+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "57555",
+          "lastSyncedAt": "2026-01-28T13:16:47+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Chainsaw Man Movie: Reze-hen",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2026-01-28T13:16:47+00:00"
+    },
+    {
+      "createdAt": "2026-01-27T14:20:39+00:00",
+      "externalIds": {
+        "mal": "30276"
+      },
+      "id": "mal_e5bd9b5c-9d2e-486d-923f-1765b9a19a76",
+      "lastWatchedAt": "2026-01-27T14:20:39+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "30276",
+          "lastSyncedAt": "2026-01-27T14:20:39+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "One Punch Man",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2026-01-27T14:20:39+00:00"
+    },
+    {
+      "createdAt": "2025-12-25T19:22:58+00:00",
+      "externalIds": {
+        "mal": "52807"
+      },
+      "id": "mal_e172e30c-0484-4686-988d-5630b58b3f5f",
+      "lastWatchedAt": "2025-12-25T19:22:58+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 11,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "52807",
+          "lastSyncedAt": "2025-12-25T19:22:58+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "One Punch Man 3",
+      "totalWatchedMinutes": 264,
+      "updatedAt": "2025-12-25T19:22:58+00:00"
+    },
+    {
+      "createdAt": "2025-12-11T19:33:42+00:00",
+      "externalIds": {
+        "mal": "60303"
+      },
+      "id": "mal_ee8a87e0-9cdb-48f2-ba8a-13f006262daa",
+      "lastWatchedAt": "2025-12-11T19:33:42+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "60303",
+          "lastSyncedAt": "2025-12-11T19:33:42+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-12-11T19:33:42+00:00"
+    },
+    {
+      "createdAt": "2025-11-23T10:06:36+00:00",
+      "externalIds": {
+        "mal": "9135"
+      },
+      "id": "mal_0a4dedb4-559e-4dac-bc37-02e7471e9db4",
+      "lastWatchedAt": "2025-11-23T10:06:36+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "9135",
+          "lastSyncedAt": "2025-11-23T10:06:36+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Fullmetal Alchemist: The Sacred Star of Milos",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-11-23T10:06:36+00:00"
+    },
+    {
+      "createdAt": "2025-11-22T19:06:18+00:00",
+      "externalIds": {
+        "mal": "21"
+      },
+      "id": "mal_9febed76-3506-476f-a747-07742ad5b31d",
+      "lastWatchedAt": "2025-11-22T19:06:18+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 67,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 0
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "21",
+          "lastSyncedAt": "2025-11-22T19:06:18+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "One Piece",
+      "totalWatchedMinutes": 1608,
+      "updatedAt": "2025-11-22T19:06:18+00:00"
+    },
+    {
+      "createdAt": "2025-11-22T16:10:29+00:00",
+      "externalIds": {
+        "mal": "5114"
+      },
+      "id": "mal_9e06bb34-b5bf-435d-bcaa-1776fa48a3b3",
+      "lastWatchedAt": "2025-11-22T16:10:29+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 64,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 64
+      },
+      "score": 10,
+      "serviceSync": {
+        "mal": {
+          "externalId": "5114",
+          "lastSyncedAt": "2025-11-22T16:10:29+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "totalWatchedMinutes": 1536,
+      "updatedAt": "2025-11-22T16:10:29+00:00"
+    },
+    {
+      "createdAt": "2025-11-17T20:10:59+00:00",
+      "externalIds": {
+        "mal": "39597"
+      },
+      "id": "mal_26b25384-96a2-4884-9115-b17456183fd3",
+      "lastWatchedAt": "2025-11-17T20:10:59+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "39597",
+          "lastSyncedAt": "2025-11-17T20:10:59+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Sword Art Online: Alicization - War of Underworld",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-11-17T20:10:59+00:00"
+    },
+    {
+      "createdAt": "2025-11-16T20:33:30+00:00",
+      "externalIds": {
+        "mal": "39195"
+      },
+      "id": "mal_1c2ac65d-a14a-45fc-9697-e6009c75658a",
+      "lastWatchedAt": "2025-11-16T20:33:30+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "39195",
+          "lastSyncedAt": "2025-11-16T20:33:30+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Beastars",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-11-16T20:33:30+00:00"
+    },
+    {
+      "createdAt": "2025-10-31T18:02:26+00:00",
+      "externalIds": {
+        "mal": "34933"
+      },
+      "id": "mal_29abe206-cd54-49c9-801a-0aa8c554f9c7",
+      "lastWatchedAt": "2025-10-31T18:02:26+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 6,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "34933",
+          "lastSyncedAt": "2025-10-31T18:02:26+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Kakegurui",
+      "totalWatchedMinutes": 144,
+      "updatedAt": "2025-10-31T18:02:26+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T15:02:58+00:00",
+      "externalIds": {
+        "mal": "60732"
+      },
+      "id": "mal_bfd0b0ff-c0c8-484b-822b-247c5433b0c2",
+      "lastWatchedAt": "2025-10-17T15:02:58+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 0,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "60732",
+          "lastSyncedAt": "2025-10-17T15:02:58+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "planned",
+      "title": "Mizu Zokusei no Mahoutsukai",
+      "totalWatchedMinutes": 0,
+      "updatedAt": "2025-10-17T15:02:58+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T15:02:05+00:00",
+      "externalIds": {
+        "mal": "39652"
+      },
+      "id": "mal_cd23134f-cb95-42fc-8610-84199ee17db0",
+      "lastWatchedAt": "2025-10-17T15:02:05+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "39652",
+          "lastSyncedAt": "2025-10-17T15:02:05+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "One Punch Man 2nd Season Commemorative Special",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-10-17T15:02:05+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T15:01:25+00:00",
+      "externalIds": {
+        "mal": "31772"
+      },
+      "id": "mal_694568b4-663e-4a7b-9914-29f5f4226a21",
+      "lastWatchedAt": "2025-10-17T15:01:25+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 6,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 6
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "31772",
+          "lastSyncedAt": "2025-10-17T15:01:25+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "One Punch Man Specials",
+      "totalWatchedMinutes": 144,
+      "updatedAt": "2025-10-17T15:01:25+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:58:50+00:00",
+      "externalIds": {
+        "mal": "2034"
+      },
+      "id": "mal_620c07f9-ea0c-4d16-8c61-fb0c8509f199",
+      "lastWatchedAt": "2025-10-17T14:58:50+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 2,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "2034",
+          "lastSyncedAt": "2025-10-17T14:58:50+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "planned",
+      "title": "Lovely★Complex",
+      "totalWatchedMinutes": 48,
+      "updatedAt": "2025-10-17T14:58:50+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:58:17+00:00",
+      "externalIds": {
+        "mal": "52481"
+      },
+      "id": "mal_7328816a-496b-4f7f-bedb-56b41bc60858",
+      "lastWatchedAt": "2025-10-17T14:58:17+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 6,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "52481",
+          "lastSyncedAt": "2025-10-17T14:58:17+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Gimai Seikatsu",
+      "totalWatchedMinutes": 144,
+      "updatedAt": "2025-10-17T14:58:17+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:58:12+00:00",
+      "externalIds": {
+        "mal": "52701"
+      },
+      "id": "mal_cfc75de1-d4ad-4cb9-97e3-674d09ba8c3f",
+      "lastWatchedAt": "2025-10-17T14:58:12+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 9,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 8,
+      "serviceSync": {
+        "mal": {
+          "externalId": "52701",
+          "lastSyncedAt": "2025-10-17T14:58:12+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "planned",
+      "title": "Dungeon Meshi",
+      "totalWatchedMinutes": 216,
+      "updatedAt": "2025-10-17T14:58:12+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:57:46+00:00",
+      "externalIds": {
+        "mal": "37450"
+      },
+      "id": "mal_e3ea347c-4872-4d7d-a860-b27494837b4b",
+      "lastWatchedAt": "2025-10-17T14:57:46+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 3,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "37450",
+          "lastSyncedAt": "2025-10-17T14:57:46+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "totalWatchedMinutes": 72,
+      "updatedAt": "2025-10-17T14:57:46+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:57:43+00:00",
+      "externalIds": {
+        "mal": "42963"
+      },
+      "id": "mal_0cfca643-e1a4-4954-8d7b-1adf64c9130b",
+      "lastWatchedAt": "2025-10-17T14:57:43+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "42963",
+          "lastSyncedAt": "2025-10-17T14:57:43+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Kanojo, Okarishimasu 2nd Season",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-10-17T14:57:43+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:57:37+00:00",
+      "externalIds": {
+        "mal": "41094"
+      },
+      "id": "mal_3d103b43-e9f0-47d3-a0dd-e0374d0e3664",
+      "lastWatchedAt": "2025-10-17T14:57:37+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 3,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 15
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "41094",
+          "lastSyncedAt": "2025-10-17T14:57:37+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Xian Wang de Richang Shenghuo",
+      "totalWatchedMinutes": 72,
+      "updatedAt": "2025-10-17T14:57:37+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:57:25+00:00",
+      "externalIds": {
+        "mal": "58514"
+      },
+      "id": "mal_04200b7a-42fa-442f-8b6d-c20aadcb62c0",
+      "lastWatchedAt": "2025-10-17T14:57:25+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 2,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "58514",
+          "lastSyncedAt": "2025-10-17T14:57:25+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "paused",
+      "title": "Kusuriya no Hitorigoto 2nd Season",
+      "totalWatchedMinutes": 48,
+      "updatedAt": "2025-10-17T14:57:25+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:56:03+00:00",
+      "externalIds": {
+        "mal": "60543"
+      },
+      "id": "mal_0e7a9c0c-b029-4234-a169-32c8b77d52c1",
+      "lastWatchedAt": "2025-10-17T14:56:03+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "60543",
+          "lastSyncedAt": "2025-10-17T14:56:03+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Dandadan 2nd Season",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-10-17T14:56:03+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:55:55+00:00",
+      "externalIds": {
+        "mal": "53065"
+      },
+      "id": "mal_8b1dc8bf-c023-47bc-847d-db4216e8e711",
+      "lastWatchedAt": "2025-10-17T14:55:55+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "53065",
+          "lastSyncedAt": "2025-10-17T14:55:55+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-10-17T14:55:55+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:55:50+00:00",
+      "externalIds": {
+        "mal": "60285"
+      },
+      "id": "mal_47ee6ec9-b486-4391-a828-d137dec2d002",
+      "lastWatchedAt": "2025-10-17T14:55:50+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 11,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 11
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "60285",
+          "lastSyncedAt": "2025-10-17T14:55:50+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sakamoto Days Part 2",
+      "totalWatchedMinutes": 264,
+      "updatedAt": "2025-10-17T14:55:50+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:55:44+00:00",
+      "externalIds": {
+        "mal": "59845"
+      },
+      "id": "mal_c381e809-431c-4871-a8b7-b863b67d2aa2",
+      "lastWatchedAt": "2025-10-17T14:55:44+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 13,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 8,
+      "serviceSync": {
+        "mal": {
+          "externalId": "59845",
+          "lastSyncedAt": "2025-10-17T14:55:44+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kaoru Hana wa Rin to Saku",
+      "totalWatchedMinutes": 312,
+      "updatedAt": "2025-10-17T14:55:44+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:55:37+00:00",
+      "externalIds": {
+        "mal": "23273"
+      },
+      "id": "mal_d02f04d7-2193-4c6b-95d6-02e9ab8fc48a",
+      "lastWatchedAt": "2025-10-17T14:55:37+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 6,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 22
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "23273",
+          "lastSyncedAt": "2025-10-17T14:55:37+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "paused",
+      "title": "Shigatsu wa Kimi no Uso",
+      "totalWatchedMinutes": 144,
+      "updatedAt": "2025-10-17T14:55:37+00:00"
+    },
+    {
+      "createdAt": "2025-10-17T14:55:32+00:00",
+      "externalIds": {
+        "mal": "32281"
+      },
+      "id": "mal_25f0f2bd-d506-495b-b5b5-42deb459f8ed",
+      "lastWatchedAt": "2025-10-17T14:55:32+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 10,
+      "serviceSync": {
+        "mal": {
+          "externalId": "32281",
+          "lastSyncedAt": "2025-10-17T14:55:32+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kimi no Na wa.",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-10-17T14:55:32+00:00"
+    },
+    {
+      "createdAt": "2025-09-28T04:43:25+00:00",
+      "externalIds": {
+        "mal": "48736"
+      },
+      "id": "mal_b03de925-dbbf-4b82-9c65-ae6bfbdee0cc",
+      "lastWatchedAt": "2025-09-28T04:43:25+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "48736",
+          "lastSyncedAt": "2025-09-28T04:43:25+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sono Bisque Doll wa Koi wo Suru",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-09-28T04:43:25+00:00"
+    },
+    {
+      "createdAt": "2025-09-02T07:37:08+00:00",
+      "externalIds": {
+        "mal": "28999"
+      },
+      "id": "mal_33433afd-a6ee-45a3-ac6f-fd4abe5c3e9c",
+      "lastWatchedAt": "2025-09-02T07:37:08+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 4,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "28999",
+          "lastSyncedAt": "2025-09-02T07:37:08+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Charlotte",
+      "totalWatchedMinutes": 96,
+      "updatedAt": "2025-09-02T07:37:08+00:00"
+    },
+    {
+      "createdAt": "2025-09-01T20:54:15+00:00",
+      "externalIds": {
+        "mal": "34176"
+      },
+      "id": "mal_7eaecc18-a1f9-48b9-92ce-d50ee9ee1e6d",
+      "lastWatchedAt": "2025-09-01T20:54:15+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 0,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "34176",
+          "lastSyncedAt": "2025-09-01T20:54:15+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Zero kara Hajimeru Mahou no Sho",
+      "totalWatchedMinutes": 0,
+      "updatedAt": "2025-09-01T20:54:15+00:00"
+    },
+    {
+      "createdAt": "2025-09-01T20:53:50+00:00",
+      "externalIds": {
+        "mal": "31240"
+      },
+      "id": "mal_8a2c2b3f-4de0-4b29-9ad3-7b545abbb7af",
+      "lastWatchedAt": "2025-09-01T20:53:50+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 3,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 25
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "31240",
+          "lastSyncedAt": "2025-09-01T20:53:50+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+      "totalWatchedMinutes": 72,
+      "updatedAt": "2025-09-01T20:53:50+00:00"
+    },
+    {
+      "createdAt": "2025-09-01T20:53:35+00:00",
+      "externalIds": {
+        "mal": "17265"
+      },
+      "id": "mal_6ddf167e-b46c-4d75-9e5d-ee022e279f32",
+      "lastWatchedAt": "2025-09-01T20:53:35+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 25
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "17265",
+          "lastSyncedAt": "2025-09-01T20:53:35+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Log Horizon",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-09-01T20:53:35+00:00"
+    },
+    {
+      "createdAt": "2025-09-01T20:52:42+00:00",
+      "externalIds": {
+        "mal": "269"
+      },
+      "id": "mal_ab218d99-7eed-4bdb-a0af-398494986899",
+      "lastWatchedAt": "2025-09-01T20:52:42+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 89,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 366
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "269",
+          "lastSyncedAt": "2025-09-01T20:52:42+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "dropped",
+      "title": "Bleach",
+      "totalWatchedMinutes": 2136,
+      "updatedAt": "2025-09-01T20:52:42+00:00"
+    },
+    {
+      "createdAt": "2025-09-01T20:52:27+00:00",
+      "externalIds": {
+        "mal": "34572"
+      },
+      "id": "mal_dfc17a55-6918-4945-ae7d-0b5f56e2e56f",
+      "lastWatchedAt": "2025-09-01T20:52:27+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 5,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 170
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "34572",
+          "lastSyncedAt": "2025-09-01T20:52:27+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "paused",
+      "title": "Black Clover",
+      "totalWatchedMinutes": 120,
+      "updatedAt": "2025-09-01T20:52:27+00:00"
+    },
+    {
+      "createdAt": "2025-09-01T20:52:03+00:00",
+      "externalIds": {
+        "mal": "54744"
+      },
+      "id": "mal_0dbdf09b-8278-4875-8469-81a30b307490",
+      "lastWatchedAt": "2025-09-01T20:52:03+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 0,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "54744",
+          "lastSyncedAt": "2025-09-01T20:52:03+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "planned",
+      "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+      "totalWatchedMinutes": 0,
+      "updatedAt": "2025-09-01T20:52:03+00:00"
+    },
+    {
+      "createdAt": "2025-09-01T20:36:36+00:00",
+      "externalIds": {
+        "mal": "53407"
+      },
+      "id": "mal_481fba84-ce9e-4404-9071-a882f6cf4c39",
+      "lastWatchedAt": "2025-09-01T20:36:36+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 0,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "53407",
+          "lastSyncedAt": "2025-09-01T20:36:36+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "planned",
+      "title": "Bartender: Kami no Glass",
+      "totalWatchedMinutes": 0,
+      "updatedAt": "2025-09-01T20:36:36+00:00"
+    },
+    {
+      "createdAt": "2025-09-01T20:35:10+00:00",
+      "externalIds": {
+        "mal": "58939"
+      },
+      "id": "mal_06da2aef-997f-48c1-a42a-316bfca96492",
+      "lastWatchedAt": "2025-09-01T20:35:10+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 11,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 11
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "58939",
+          "lastSyncedAt": "2025-09-01T20:35:10+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sakamoto Days",
+      "totalWatchedMinutes": 264,
+      "updatedAt": "2025-09-01T20:35:10+00:00"
+    },
+    {
+      "createdAt": "2025-08-31T17:32:28+00:00",
+      "externalIds": {
+        "mal": "49387"
+      },
+      "id": "mal_943eee51-088f-4046-a3f3-a821680a78cc",
+      "lastWatchedAt": "2025-08-31T17:32:28+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 24,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 10,
+      "serviceSync": {
+        "mal": {
+          "externalId": "49387",
+          "lastSyncedAt": "2025-08-31T17:32:28+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Vinland Saga Season 2",
+      "totalWatchedMinutes": 576,
+      "updatedAt": "2025-08-31T17:32:28+00:00"
+    },
+    {
+      "createdAt": "2025-08-31T17:32:21+00:00",
+      "externalIds": {
+        "mal": "44074"
+      },
+      "id": "mal_f2b9ee4a-12c4-479d-8102-edc750e3ccf0",
+      "lastWatchedAt": "2025-08-31T17:32:21+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 11,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 11
+      },
+      "score": 8,
+      "serviceSync": {
+        "mal": {
+          "externalId": "44074",
+          "lastSyncedAt": "2025-08-31T17:32:21+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shiguang Dailiren",
+      "totalWatchedMinutes": 264,
+      "updatedAt": "2025-08-31T17:32:21+00:00"
+    },
+    {
+      "createdAt": "2025-08-31T17:32:17+00:00",
+      "externalIds": {
+        "mal": "37521"
+      },
+      "id": "mal_58667315-4a3c-4aee-b578-535e74725517",
+      "lastWatchedAt": "2025-08-31T17:32:17+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 24,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 10,
+      "serviceSync": {
+        "mal": {
+          "externalId": "37521",
+          "lastSyncedAt": "2025-08-31T17:32:17+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Vinland Saga",
+      "totalWatchedMinutes": 576,
+      "updatedAt": "2025-08-31T17:32:17+00:00"
+    },
+    {
+      "createdAt": "2025-08-31T17:32:13+00:00",
+      "externalIds": {
+        "mal": "35737"
+      },
+      "id": "mal_95f83685-8c3a-4f3c-9df7-010321ac2c28",
+      "lastWatchedAt": "2025-08-31T17:32:13+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 8,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 8
+      },
+      "score": 9,
+      "serviceSync": {
+        "mal": {
+          "externalId": "35737",
+          "lastSyncedAt": "2025-08-31T17:32:13+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Pluto",
+      "totalWatchedMinutes": 192,
+      "updatedAt": "2025-08-31T17:32:13+00:00"
+    },
+    {
+      "createdAt": "2025-08-31T17:32:10+00:00",
+      "externalIds": {
+        "mal": "9253"
+      },
+      "id": "mal_b5cfe8c7-f65c-4866-8723-e4f5d31098d1",
+      "lastWatchedAt": "2025-08-31T17:32:10+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 24,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 10,
+      "serviceSync": {
+        "mal": {
+          "externalId": "9253",
+          "lastSyncedAt": "2025-08-31T17:32:10+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Steins;Gate",
+      "totalWatchedMinutes": 576,
+      "updatedAt": "2025-08-31T17:32:10+00:00"
+    },
+    {
+      "createdAt": "2025-08-31T17:31:39+00:00",
+      "externalIds": {
+        "mal": "1535"
+      },
+      "id": "mal_f23517c5-be04-4d14-8a4d-588f3e09f6af",
+      "lastWatchedAt": "2025-08-31T17:31:39+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 37,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 37
+      },
+      "score": 10,
+      "serviceSync": {
+        "mal": {
+          "externalId": "1535",
+          "lastSyncedAt": "2025-08-31T17:31:39+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Death Note",
+      "totalWatchedMinutes": 888,
+      "updatedAt": "2025-08-31T17:31:39+00:00"
+    },
+    {
+      "createdAt": "2025-08-26T14:11:56+00:00",
+      "externalIds": {
+        "mal": "39705"
+      },
+      "id": "mal_9da5c617-33b4-4bc4-9bbd-766f282ddd84",
+      "lastWatchedAt": "2025-08-26T14:11:56+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 6,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 6
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "39705",
+          "lastSyncedAt": "2025-08-26T14:11:56+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "One Punch Man 2nd Season Specials",
+      "totalWatchedMinutes": 144,
+      "updatedAt": "2025-08-26T14:11:56+00:00"
+    },
+    {
+      "createdAt": "2025-08-26T14:11:24+00:00",
+      "externalIds": {
+        "mal": "34134"
+      },
+      "id": "mal_556ebd9e-c326-4021-9fbc-c999512a539b",
+      "lastWatchedAt": "2025-08-26T14:11:24+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "34134",
+          "lastSyncedAt": "2025-08-26T14:11:24+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "One Punch Man 2nd Season",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-26T14:11:24+00:00"
+    },
+    {
+      "createdAt": "2025-08-26T14:10:42+00:00",
+      "externalIds": {
+        "mal": "44511"
+      },
+      "id": "mal_7c66c3c5-18f9-4bf2-90e5-a9b279f81b89",
+      "lastWatchedAt": "2025-08-26T14:10:42+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "44511",
+          "lastSyncedAt": "2025-08-26T14:10:42+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Chainsaw Man",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-26T14:10:42+00:00"
+    },
+    {
+      "createdAt": "2025-08-26T14:07:27+00:00",
+      "externalIds": {
+        "mal": "42923"
+      },
+      "id": "mal_b0b9a9c5-c852-42bf-9b57-18aabc034f7b",
+      "lastWatchedAt": "2025-08-26T14:07:27+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "42923",
+          "lastSyncedAt": "2025-08-26T14:07:27+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "SK∞",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-26T14:07:27+00:00"
+    },
+    {
+      "createdAt": "2025-08-10T18:20:09+00:00",
+      "externalIds": {
+        "mal": "60489"
+      },
+      "id": "mal_f4b1e2df-afec-4e2a-9070-84239d19c8cf",
+      "lastWatchedAt": "2025-08-10T18:20:09+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 6,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 6
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "60489",
+          "lastSyncedAt": "2025-08-10T18:20:09+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Takopii no Genzai",
+      "totalWatchedMinutes": 144,
+      "updatedAt": "2025-08-10T18:20:09+00:00"
+    },
+    {
+      "createdAt": "2025-08-10T17:23:34+00:00",
+      "externalIds": {
+        "mal": "199"
+      },
+      "id": "mal_5b274d9f-7046-49ae-8b9e-f5d936f2a4bf",
+      "lastWatchedAt": "2025-08-10T17:23:34+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "199",
+          "lastSyncedAt": "2025-08-10T17:23:34+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sen to Chihiro no Kamikakushi",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-08-10T17:23:34+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T11:00:51+00:00",
+      "externalIds": {
+        "mal": "6675"
+      },
+      "id": "mal_d5273ab9-d6b0-486c-aa53-8a1bc6a83101",
+      "lastWatchedAt": "2025-08-02T11:00:51+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "6675",
+          "lastSyncedAt": "2025-08-02T11:00:51+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Redline",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-08-02T11:00:51+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T11:00:20+00:00",
+      "externalIds": {
+        "mal": "326"
+      },
+      "id": "mal_f5fc58a6-b079-40d9-b9b0-8857e1264d83",
+      "lastWatchedAt": "2025-08-02T11:00:20+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 4,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 4
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "326",
+          "lastSyncedAt": "2025-08-02T11:00:20+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Petshop of Horrors",
+      "totalWatchedMinutes": 96,
+      "updatedAt": "2025-08-02T11:00:20+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:57:27+00:00",
+      "externalIds": {
+        "mal": "48561"
+      },
+      "id": "mal_465af397-bae1-4a54-b280-7420b5bdc2f4",
+      "lastWatchedAt": "2025-08-02T10:57:27+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "48561",
+          "lastSyncedAt": "2025-08-02T10:57:27+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Jujutsu Kaisen 0 Movie",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-08-02T10:57:27+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:57:15+00:00",
+      "externalIds": {
+        "mal": "40748"
+      },
+      "id": "mal_e61dcaa4-d238-4cf2-9872-c6ae19329819",
+      "lastWatchedAt": "2025-08-02T10:57:15+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 24,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "40748",
+          "lastSyncedAt": "2025-08-02T10:57:15+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Jujutsu Kaisen",
+      "totalWatchedMinutes": 576,
+      "updatedAt": "2025-08-02T10:57:15+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:55:31+00:00",
+      "externalIds": {
+        "mal": "40839"
+      },
+      "id": "mal_a120aaac-1d20-4fbf-999d-bdf26deb4bc0",
+      "lastWatchedAt": "2025-08-02T10:55:31+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "40839",
+          "lastSyncedAt": "2025-08-02T10:55:31+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kanojo, Okarishimasu",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:55:31+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:49:41+00:00",
+      "externalIds": {
+        "mal": "60057"
+      },
+      "id": "mal_c450a0e4-d4f5-4987-af88-e49ced260c3b",
+      "lastWatchedAt": "2025-08-02T10:49:41+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "60057",
+          "lastSyncedAt": "2025-08-02T10:49:41+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Chao Neng Lifang: Chaofan Pian",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:49:41+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:43:30+00:00",
+      "externalIds": {
+        "mal": "54112"
+      },
+      "id": "mal_32d8e7b8-d347-4421-9f0d-74b3fc849a9d",
+      "lastWatchedAt": "2025-08-02T10:43:30+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "54112",
+          "lastSyncedAt": "2025-08-02T10:43:30+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:43:30+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:41:28+00:00",
+      "externalIds": {
+        "mal": "55813"
+      },
+      "id": "mal_a3ff7ae2-d578-41a6-b186-3b1dbb81511c",
+      "lastWatchedAt": "2025-08-02T10:41:28+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "55813",
+          "lastSyncedAt": "2025-08-02T10:41:28+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Mashle: Shinkakusha Kouho Senbatsu Shiken-hen",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:41:28+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:41:22+00:00",
+      "externalIds": {
+        "mal": "52211"
+      },
+      "id": "mal_8ba997a7-4a01-4a47-8b82-9d0f630ab5ca",
+      "lastWatchedAt": "2025-08-02T10:41:22+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "52211",
+          "lastSyncedAt": "2025-08-02T10:41:22+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Mashle",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:41:22+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:40:48+00:00",
+      "externalIds": {
+        "mal": "50608"
+      },
+      "id": "mal_d9e686c1-e433-4d52-9392-a74730099c9c",
+      "lastWatchedAt": "2025-08-02T10:40:48+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 13,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "50608",
+          "lastSyncedAt": "2025-08-02T10:40:48+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Tokyo Revengers: Seiya Kessen-hen",
+      "totalWatchedMinutes": 312,
+      "updatedAt": "2025-08-02T10:40:48+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:40:41+00:00",
+      "externalIds": {
+        "mal": "54918"
+      },
+      "id": "mal_0e76de58-45ab-4b88-b189-4ba5654dd49a",
+      "lastWatchedAt": "2025-08-02T10:40:41+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 13,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "54918",
+          "lastSyncedAt": "2025-08-02T10:40:41+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Tokyo Revengers: Tenjiku-hen",
+      "totalWatchedMinutes": 312,
+      "updatedAt": "2025-08-02T10:40:41+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:40:19+00:00",
+      "externalIds": {
+        "mal": "22319"
+      },
+      "id": "mal_17051305-a297-476c-87f7-a687f1bf6b41",
+      "lastWatchedAt": "2025-08-02T10:40:19+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "22319",
+          "lastSyncedAt": "2025-08-02T10:40:19+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Tokyo Ghoul",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:40:19+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:36:07+00:00",
+      "externalIds": {
+        "mal": "42310"
+      },
+      "id": "mal_88d42d69-09eb-4484-b1c4-a47eaa5a54bc",
+      "lastWatchedAt": "2025-08-02T10:36:07+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 10,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 10
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "42310",
+          "lastSyncedAt": "2025-08-02T10:36:07+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Cyberpunk: Edgerunners",
+      "totalWatchedMinutes": 240,
+      "updatedAt": "2025-08-02T10:36:07+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:35:37+00:00",
+      "externalIds": {
+        "mal": "23775"
+      },
+      "id": "mal_5704eb2c-501a-42d4-bd0e-0bab6195b9a0",
+      "lastWatchedAt": "2025-08-02T10:35:37+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "23775",
+          "lastSyncedAt": "2025-08-02T10:35:37+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-08-02T10:35:37+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:35:31+00:00",
+      "externalIds": {
+        "mal": "40028"
+      },
+      "id": "mal_c8e73417-40fd-4b10-90d3-bec01518f74c",
+      "lastWatchedAt": "2025-08-02T10:35:31+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 16,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 16
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "40028",
+          "lastSyncedAt": "2025-08-02T10:35:31+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shingeki no Kyojin: The Final Season",
+      "totalWatchedMinutes": 384,
+      "updatedAt": "2025-08-02T10:35:31+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:35:27+00:00",
+      "externalIds": {
+        "mal": "25777"
+      },
+      "id": "mal_c3403075-f364-4220-8505-30e8d00f7e1f",
+      "lastWatchedAt": "2025-08-02T10:35:27+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "25777",
+          "lastSyncedAt": "2025-08-02T10:35:27+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shingeki no Kyojin Season 2",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:35:27+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:35:21+00:00",
+      "externalIds": {
+        "mal": "23777"
+      },
+      "id": "mal_5d82db8a-a4c3-4520-bff3-1d64508dfb7e",
+      "lastWatchedAt": "2025-08-02T10:35:21+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "23777",
+          "lastSyncedAt": "2025-08-02T10:35:21+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-08-02T10:35:21+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:35:16+00:00",
+      "externalIds": {
+        "mal": "38524"
+      },
+      "id": "mal_06f954ef-f63f-49e2-a527-0f54d5256b46",
+      "lastWatchedAt": "2025-08-02T10:35:16+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 10,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 10
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "38524",
+          "lastSyncedAt": "2025-08-02T10:35:16+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shingeki no Kyojin Season 3 Part 2",
+      "totalWatchedMinutes": 240,
+      "updatedAt": "2025-08-02T10:35:16+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:35:12+00:00",
+      "externalIds": {
+        "mal": "35760"
+      },
+      "id": "mal_074a1ae1-9c3f-450b-b5db-a86d1b858889",
+      "lastWatchedAt": "2025-08-02T10:35:12+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "35760",
+          "lastSyncedAt": "2025-08-02T10:35:12+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shingeki no Kyojin Season 3",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:35:12+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:35:08+00:00",
+      "externalIds": {
+        "mal": "16498"
+      },
+      "id": "mal_dbdfb62d-82f1-49e3-a061-8c00ae50921b",
+      "lastWatchedAt": "2025-08-02T10:35:08+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 25,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 25
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "16498",
+          "lastSyncedAt": "2025-08-02T10:35:08+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shingeki no Kyojin",
+      "totalWatchedMinutes": 600,
+      "updatedAt": "2025-08-02T10:35:08+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:34:20+00:00",
+      "externalIds": {
+        "mal": "56752"
+      },
+      "id": "mal_972ca247-1b85-4737-8647-7a18fb5973bd",
+      "lastWatchedAt": "2025-08-02T10:34:20+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 6,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 6
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "56752",
+          "lastSyncedAt": "2025-08-02T10:34:20+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shiguang Dailiren: Yingdu Pian",
+      "totalWatchedMinutes": 144,
+      "updatedAt": "2025-08-02T10:34:20+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:34:11+00:00",
+      "externalIds": {
+        "mal": "49413"
+      },
+      "id": "mal_db5c34fe-11cc-411a-9209-090f1b1f6f40",
+      "lastWatchedAt": "2025-08-02T10:34:11+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "49413",
+          "lastSyncedAt": "2025-08-02T10:34:11+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Shiguang Dailiren II",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:34:11+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:33:12+00:00",
+      "externalIds": {
+        "mal": "31765"
+      },
+      "id": "mal_ad8ae4aa-70f0-4ea5-b9dd-8e14bd8e9a88",
+      "lastWatchedAt": "2025-08-02T10:33:12+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "31765",
+          "lastSyncedAt": "2025-08-02T10:33:12+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sword Art Online Movie: Ordinal Scale",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-08-02T10:33:12+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:31:00+00:00",
+      "externalIds": {
+        "mal": "21881"
+      },
+      "id": "mal_22667640-8a6b-483a-bb07-4c670f5eb3c6",
+      "lastWatchedAt": "2025-08-02T10:31:00+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 24,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "21881",
+          "lastSyncedAt": "2025-08-02T10:31:00+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sword Art Online II",
+      "totalWatchedMinutes": 576,
+      "updatedAt": "2025-08-02T10:31:00+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:30:00+00:00",
+      "externalIds": {
+        "mal": "20021"
+      },
+      "id": "mal_62b2314a-2862-4931-9326-2c428be6ad33",
+      "lastWatchedAt": "2025-08-02T10:30:00+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "20021",
+          "lastSyncedAt": "2025-08-02T10:30:00+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sword Art Online: Extra Edition",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-08-02T10:30:00+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:29:41+00:00",
+      "externalIds": {
+        "mal": "11757"
+      },
+      "id": "mal_c3531308-5d79-4946-80ea-73b25620f84c",
+      "lastWatchedAt": "2025-08-02T10:29:41+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 25,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 25
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "11757",
+          "lastSyncedAt": "2025-08-02T10:29:41+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Sword Art Online",
+      "totalWatchedMinutes": 600,
+      "updatedAt": "2025-08-02T10:29:41+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:27:30+00:00",
+      "externalIds": {
+        "mal": "11577"
+      },
+      "id": "mal_b9bc3129-bb8e-453f-aeab-0e84ec97b601",
+      "lastWatchedAt": "2025-08-02T10:27:30+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "11577",
+          "lastSyncedAt": "2025-08-02T10:27:30+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-08-02T10:27:30+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:26:26+00:00",
+      "externalIds": {
+        "mal": "51019"
+      },
+      "id": "mal_fe8bf0d5-34fe-47fe-9871-7fad7e73c036",
+      "lastWatchedAt": "2025-08-02T10:26:26+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 11,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 11
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "51019",
+          "lastSyncedAt": "2025-08-02T10:26:26+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+      "totalWatchedMinutes": 264,
+      "updatedAt": "2025-08-02T10:26:26+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:26:19+00:00",
+      "externalIds": {
+        "mal": "47778"
+      },
+      "id": "mal_392b7afb-2b0f-488f-bbaa-b67033ceb576",
+      "lastWatchedAt": "2025-08-02T10:26:19+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 11,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 11
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "47778",
+          "lastSyncedAt": "2025-08-02T10:26:19+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kimetsu no Yaiba: Yuukaku-hen",
+      "totalWatchedMinutes": 264,
+      "updatedAt": "2025-08-02T10:26:19+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:26:15+00:00",
+      "externalIds": {
+        "mal": "55701"
+      },
+      "id": "mal_acb80775-3fa8-4c26-9ab5-6f9d0b014416",
+      "lastWatchedAt": "2025-08-02T10:26:15+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 8,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 8
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "55701",
+          "lastSyncedAt": "2025-08-02T10:26:15+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+      "totalWatchedMinutes": 192,
+      "updatedAt": "2025-08-02T10:26:15+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:26:11+00:00",
+      "externalIds": {
+        "mal": "49926"
+      },
+      "id": "mal_5cf3d6d3-6765-4947-873f-44b4cb549e99",
+      "lastWatchedAt": "2025-08-02T10:26:11+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 7,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 7
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "49926",
+          "lastSyncedAt": "2025-08-02T10:26:11+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+      "totalWatchedMinutes": 168,
+      "updatedAt": "2025-08-02T10:26:11+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:26:05+00:00",
+      "externalIds": {
+        "mal": "40456"
+      },
+      "id": "mal_b79e0d95-33d2-4ebc-8b39-dd2905635bfc",
+      "lastWatchedAt": "2025-08-02T10:26:05+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "40456",
+          "lastSyncedAt": "2025-08-02T10:26:05+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-08-02T10:26:05+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:25:53+00:00",
+      "externalIds": {
+        "mal": "38000"
+      },
+      "id": "mal_d4f0f4d6-715f-47f5-a50e-88d097d53e3e",
+      "lastWatchedAt": "2025-08-02T10:25:53+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 26,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 26
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "38000",
+          "lastSyncedAt": "2025-08-02T10:25:53+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kimetsu no Yaiba",
+      "totalWatchedMinutes": 624,
+      "updatedAt": "2025-08-02T10:25:53+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:25:16+00:00",
+      "externalIds": {
+        "mal": "58567"
+      },
+      "id": "mal_e6d14f23-c470-4ed1-917e-65c82f18b038",
+      "lastWatchedAt": "2025-08-02T10:25:16+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 13,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "58567",
+          "lastSyncedAt": "2025-08-02T10:25:16+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+      "totalWatchedMinutes": 312,
+      "updatedAt": "2025-08-02T10:25:16+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:25:11+00:00",
+      "externalIds": {
+        "mal": "52299"
+      },
+      "id": "mal_558febda-3757-4766-b49b-2c81d74fb3a4",
+      "lastWatchedAt": "2025-08-02T10:25:11+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "52299",
+          "lastSyncedAt": "2025-08-02T10:25:11+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Ore dake Level Up na Ken",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:25:11+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:24:15+00:00",
+      "externalIds": {
+        "mal": "35120"
+      },
+      "id": "mal_529b13a0-11df-448e-b553-666b4351877a",
+      "lastWatchedAt": "2025-08-02T10:24:15+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 10,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 10
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "35120",
+          "lastSyncedAt": "2025-08-02T10:24:15+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Devilman: Crybaby",
+      "totalWatchedMinutes": 240,
+      "updatedAt": "2025-08-02T10:24:15+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:23:15+00:00",
+      "externalIds": {
+        "mal": "54492"
+      },
+      "id": "mal_c4156e91-c6fd-47da-93fb-9de11c2cdf55",
+      "lastWatchedAt": "2025-08-02T10:23:15+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 24,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "54492",
+          "lastSyncedAt": "2025-08-02T10:23:15+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Kusuriya no Hitorigoto",
+      "totalWatchedMinutes": 576,
+      "updatedAt": "2025-08-02T10:23:15+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:22:52+00:00",
+      "externalIds": {
+        "mal": "56038"
+      },
+      "id": "mal_18d6e0a2-4bee-496c-b25b-22696c0d7ac6",
+      "lastWatchedAt": "2025-08-02T10:22:52+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 13,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "56038",
+          "lastSyncedAt": "2025-08-02T10:22:52+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Lazarus",
+      "totalWatchedMinutes": 312,
+      "updatedAt": "2025-08-02T10:22:52+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:22:16+00:00",
+      "externalIds": {
+        "mal": "54900"
+      },
+      "id": "mal_eef1c9f9-b67a-47f2-bcc8-29d3ff285107",
+      "lastWatchedAt": "2025-08-02T10:22:16+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 13,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "54900",
+          "lastSyncedAt": "2025-08-02T10:22:16+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Wind Breaker",
+      "totalWatchedMinutes": 312,
+      "updatedAt": "2025-08-02T10:22:16+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:20:06+00:00",
+      "externalIds": {
+        "mal": "57334"
+      },
+      "id": "mal_7ba07687-6ad3-48f1-8274-d9671bf5ec61",
+      "lastWatchedAt": "2025-08-02T10:20:06+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "57334",
+          "lastSyncedAt": "2025-08-02T10:20:06+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Dandadan",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2025-08-02T10:20:06+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:18:20+00:00",
+      "externalIds": {
+        "mal": "48549"
+      },
+      "id": "mal_134c7c30-c948-407f-b2bd-02fe69f59ce8",
+      "lastWatchedAt": "2025-08-02T10:18:20+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 4,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 11
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "48549",
+          "lastSyncedAt": "2025-08-02T10:18:20+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Dr. Stone: New World",
+      "totalWatchedMinutes": 96,
+      "updatedAt": "2025-08-02T10:18:20+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:17:38+00:00",
+      "externalIds": {
+        "mal": "50612"
+      },
+      "id": "mal_29432f70-3902-48b6-a59c-e00fac405b80",
+      "lastWatchedAt": "2025-08-02T10:17:38+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 1,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 1
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "50612",
+          "lastSyncedAt": "2025-08-02T10:17:38+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Dr. Stone: Ryuusui",
+      "totalWatchedMinutes": 24,
+      "updatedAt": "2025-08-02T10:17:38+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:16:47+00:00",
+      "externalIds": {
+        "mal": "40852"
+      },
+      "id": "mal_20d1b369-d13e-4708-abe3-e37917108a88",
+      "lastWatchedAt": "2025-08-02T10:16:47+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 11,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 11
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "40852",
+          "lastSyncedAt": "2025-08-02T10:16:47+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Dr. Stone: Stone Wars",
+      "totalWatchedMinutes": 264,
+      "updatedAt": "2025-08-02T10:16:47+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:16:19+00:00",
+      "externalIds": {
+        "mal": "38691"
+      },
+      "id": "mal_f9a2e192-e054-445b-ae0b-9df5141e05f9",
+      "lastWatchedAt": "2025-08-02T10:16:19+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 24,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "38691",
+          "lastSyncedAt": "2025-08-02T10:16:19+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Dr. Stone",
+      "totalWatchedMinutes": 576,
+      "updatedAt": "2025-08-02T10:16:19+00:00"
+    },
+    {
+      "createdAt": "2025-08-02T10:12:43+00:00",
+      "externalIds": {
+        "mal": "50346"
+      },
+      "id": "mal_cc9ea518-bf3e-4f33-b72e-6edc9d28bed9",
+      "lastWatchedAt": "2025-08-02T10:12:43+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 13,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "50346",
+          "lastSyncedAt": "2025-08-02T10:12:43+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Yofukashi no Uta",
+      "totalWatchedMinutes": 312,
+      "updatedAt": "2025-08-02T10:12:43+00:00"
+    },
+    {
+      "createdAt": "2024-12-01T08:56:17+00:00",
+      "externalIds": {
+        "mal": "50265"
+      },
+      "id": "mal_1f622107-db58-4410-b8d5-c22ce275c9f2",
+      "lastWatchedAt": "2024-12-01T08:56:17+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 12,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 12
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "50265",
+          "lastSyncedAt": "2024-12-01T08:56:17+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Spy x Family",
+      "totalWatchedMinutes": 288,
+      "updatedAt": "2024-12-01T08:56:17+00:00"
+    },
+    {
+      "createdAt": "2024-12-01T08:54:42+00:00",
+      "externalIds": {
+        "mal": "42249"
+      },
+      "id": "mal_0ee62f79-95be-44cf-a157-8f54d38642d3",
+      "lastWatchedAt": "2024-12-01T08:54:42+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 24,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 24
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "42249",
+          "lastSyncedAt": "2024-12-01T08:54:42+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "completed",
+      "title": "Tokyo Revengers",
+      "totalWatchedMinutes": 576,
+      "updatedAt": "2024-12-01T08:54:42+00:00"
+    }
+  ],
+  "sessions": []
+}
