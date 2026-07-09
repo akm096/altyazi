@@ -1,17 +1,17 @@
 {
   "watchlist": {
     "797484498": {
+      "embedId": "797484498",
+      "malAnimeId": 36649,
+      "title": "Banana Fish",
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+      "totalEpisodes": 24,
+      "season": 1,
+      "episode": 24,
       "currentTime": 1861.005644,
       "duration": 1861.005644,
-      "embedId": "797484498",
-      "episode": 24,
-      "lastWatchedAt": 1782920768288,
-      "malAnimeId": 36649,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
-      "season": 1,
-      "title": "Banana Fish",
-      "totalEpisodes": 24,
-      "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=24&server=2&skin=art&u=69617296101&plan=1"
+      "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=24&server=2&skin=art&u=69617296101&plan=1",
+      "lastWatchedAt": 1782920768288
     },
     "867089702": {
       "currentTime": 523.602974,
@@ -25,6 +25,32 @@
       "title": "Shinseiki Evangelion",
       "totalEpisodes": 26,
       "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=15&server=2&skin=art&u=69617296101&plan=1&t=99"
+    },
+    "3390600761259741": {
+      "embedId": "3390600761259741",
+      "malAnimeId": 44516,
+      "title": "Koroshi Ai",
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
+      "totalEpisodes": 12,
+      "season": 1,
+      "episode": 3,
+      "currentTime": 1320.461874,
+      "duration": 1420.0654999999817,
+      "urlTemplate": "https://x.anizium.co/embed?id=3390600761259741&season=1&episode=3&server=2&skin=art&u=69617296101&plan=1",
+      "lastWatchedAt": 1783446325409
+    },
+    "4149262909617863": {
+      "embedId": "4149262909617863",
+      "malAnimeId": 53126,
+      "title": "Yamada-kun to Lv999 no Koi wo Suru",
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1298/134178.webp",
+      "totalEpisodes": 13,
+      "season": 1,
+      "episode": 1,
+      "currentTime": 5,
+      "duration": 1422.0039999999965,
+      "urlTemplate": "https://x.anizium.co/embed?id=4149262909617863&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1&t=5",
+      "lastWatchedAt": 1783014090621
     },
     "1868074734775945": {
       "currentTime": 2700.42799,
@@ -77,32 +103,6 @@
       "title": "Super no Ura de Yani Suu Futari",
       "totalEpisodes": 1,
       "urlTemplate": "https://x.anizium.co/embed?id=3281611228677324&season=1&episode=12&server=2&skin=art&u=69617296101&plan=1&t=522"
-    },
-    "3390600761259741": {
-      "currentTime": 758.314171,
-      "duration": 1420.0654999999817,
-      "embedId": "3390600761259741",
-      "episode": 3,
-      "lastWatchedAt": 1783445722938,
-      "malAnimeId": 44516,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
-      "season": 1,
-      "title": "Koroshi Ai",
-      "totalEpisodes": 12,
-      "urlTemplate": "https://x.anizium.co/embed?id=3390600761259741&season=1&episode=3&server=2&skin=art&u=69617296101&plan=1"
-    },
-    "4149262909617863": {
-      "currentTime": 5,
-      "duration": 1422.0039999999965,
-      "embedId": "4149262909617863",
-      "episode": 1,
-      "lastWatchedAt": 1783014090621,
-      "malAnimeId": 53126,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1298/134178.webp",
-      "season": 1,
-      "title": "Yamada-kun to Lv999 no Koi wo Suru",
-      "totalEpisodes": 13,
-      "urlTemplate": "https://x.anizium.co/embed?id=4149262909617863&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1&t=5"
     }
   },
   "mappings": {
@@ -126,20 +126,6 @@
       "mappedAt": 1783171552038,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.webp",
       "totalEpisodes": 26
-    },
-    "1868074734775945": {
-      "malAnimeId": 10408,
-      "malTitle": "Hotarubi no Mori e",
-      "mappedAt": 1783438929982,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
-      "totalEpisodes": 1
-    },
-    "2725013737474164": {
-      "malAnimeId": 22729,
-      "malTitle": "Aldnoah.Zero",
-      "mappedAt": 1783157514395,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/7/60263.jpg",
-      "totalEpisodes": 12
     },
     "2830385732637979": {
       "malAnimeId": 51553,
@@ -179,11 +165,25 @@
     "4149262909617863": {
       "malAnimeId": 53126,
       "malTitle": "Yamada-kun to Lv999 no Koi wo Suru",
-      "mappedAt": 1782923174149,
+      "totalEpisodes": 13,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1298/134178.webp",
-      "totalEpisodes": 13
+      "mappedAt": 1782923174149
+    },
+    "1868074734775945": {
+      "malAnimeId": 10408,
+      "malTitle": "Hotarubi no Mori e",
+      "mappedAt": 1783438929982,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
+      "totalEpisodes": 1
+    },
+    "2725013737474164": {
+      "malAnimeId": 22729,
+      "malTitle": "Aldnoah.Zero",
+      "mappedAt": 1783157514395,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/7/60263.jpg",
+      "totalEpisodes": 12
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783604250098
+  "updatedAt": 1783614247921
 }
