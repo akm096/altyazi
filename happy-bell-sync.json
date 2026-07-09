@@ -33,11 +33,11 @@
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
       "totalEpisodes": 12,
       "season": 1,
-      "episode": 3,
-      "currentTime": 1320.461874,
-      "duration": 1420.0654999999817,
-      "urlTemplate": "https://x.anizium.co/embed?id=3390600761259741&season=1&episode=3&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1783446325409
+      "episode": 4,
+      "currentTime": 299.28081,
+      "duration": 1420.129244999982,
+      "urlTemplate": "https://x.anizium.co/embed?id=3390600761259741&season=1&episode=4&server=2&skin=art&u=69617296101&plan=1",
+      "lastWatchedAt": 1783614385930
     },
     "4149262909617863": {
       "embedId": "4149262909617863",
@@ -51,19 +51,6 @@
       "duration": 1422.0039999999965,
       "urlTemplate": "https://x.anizium.co/embed?id=4149262909617863&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1&t=5",
       "lastWatchedAt": 1783014090621
-    },
-    "1868074734775945": {
-      "currentTime": 2700.42799,
-      "duration": 2705.748444,
-      "embedId": "1868074734775945",
-      "episode": 1,
-      "lastWatchedAt": 1783441692646,
-      "malAnimeId": 10408,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
-      "season": 1,
-      "title": "Hotarubi no Mori e",
-      "totalEpisodes": 1,
-      "urlTemplate": "https://x.anizium.co/embed?id=1868074734775945&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
     },
     "2725013737474164": {
       "currentTime": 398.784688,
@@ -103,6 +90,19 @@
       "title": "Super no Ura de Yani Suu Futari",
       "totalEpisodes": 1,
       "urlTemplate": "https://x.anizium.co/embed?id=3281611228677324&season=1&episode=12&server=2&skin=art&u=69617296101&plan=1&t=522"
+    },
+    "1868074734775945": {
+      "currentTime": 2700.42799,
+      "duration": 2705.748444,
+      "embedId": "1868074734775945",
+      "episode": 1,
+      "lastWatchedAt": 1783441692646,
+      "malAnimeId": 10408,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
+      "season": 1,
+      "title": "Hotarubi no Mori e",
+      "totalEpisodes": 1,
+      "urlTemplate": "https://x.anizium.co/embed?id=1868074734775945&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
     }
   },
   "mappings": {
@@ -185,5 +185,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783614247921
+  "updatedAt": 1783614396606
 }
