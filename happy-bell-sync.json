@@ -26,6 +26,19 @@
       "totalEpisodes": 26,
       "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=15&server=2&skin=art&u=69617296101&plan=1&t=99"
     },
+    "1378101340814782": {
+      "currentTime": 0.213661,
+      "duration": 700.1180219999975,
+      "embedId": "1378101340814782",
+      "episode": 2,
+      "lastWatchedAt": 1783627960864,
+      "malAnimeId": null,
+      "posterUrl": "",
+      "season": 2,
+      "title": "Bungo Stray Dogs Wan",
+      "totalEpisodes": 1,
+      "urlTemplate": "https://x.anizium.co/embed?id=1378101340814782&season=2&episode=2&server=2&skin=art&u=69617296101&plan=1"
+    },
     "1868074734775945": {
       "currentTime": 2700.42799,
       "duration": 2705.748444,
@@ -185,5 +198,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1783627951708
+  "updatedAt": 1783627965539
 }
