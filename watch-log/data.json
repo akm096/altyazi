@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-12T13:21:25.242Z",
+  "updatedAt": "2026-07-12T13:21:32.122Z",
   "entries": [
     {
       "createdAt": "2026-07-09T20:20:18+00:00",
       "externalIds": {
         "mal": "44516"
       },
-      "id": "mal_ae8a0ac8-3e51-4736-882f-bf6b86181894",
+      "id": "mal_ea131a09-3c1a-424d-8a1e-44191abd728e",
       "lastWatchedAt": "2026-07-09T20:20:18+00:00",
       "mediaType": "anime",
       "progress": {
@@ -34,7 +34,7 @@
       "externalIds": {
         "mal": "10408"
       },
-      "id": "mal_30bcfa8f-5f98-4aaf-b12c-0c06cda8eb02",
+      "id": "mal_cee26371-236e-4189-aa22-01947049eda0",
       "lastWatchedAt": "2026-07-07T16:21:41+00:00",
       "mediaType": "anime",
       "progress": {
@@ -61,7 +61,7 @@
       "externalIds": {
         "mal": "30"
       },
-      "id": "mal_156b15ba-93e0-46a5-b4e3-fdc5d030638e",
+      "id": "mal_e3ef7382-3a92-4aa9-b553-d2fe61b405d4",
       "lastWatchedAt": "2026-07-04T13:52:49+00:00",
       "mediaType": "anime",
       "progress": {
@@ -88,7 +88,7 @@
       "externalIds": {
         "mal": "22729"
       },
-      "id": "mal_51fafff0-e53c-4b10-a5d0-62183aa7d733",
+      "id": "mal_8f7dc750-6a7c-4c5e-a9fd-a2122893b66b",
       "lastWatchedAt": "2026-07-04T09:32:06+00:00",
       "mediaType": "anime",
       "progress": {
@@ -115,7 +115,7 @@
       "externalIds": {
         "mal": "51553"
       },
-      "id": "mal_1bf4d645-8083-4ec0-82e3-2ec9b7bd433d",
+      "id": "mal_b5773dc6-6628-4f37-b03a-f1d67dca285f",
       "lastWatchedAt": "2026-07-04T09:24:23+00:00",
       "mediaType": "anime",
       "progress": {
@@ -142,7 +142,7 @@
       "externalIds": {
         "mal": "36649"
       },
-      "id": "mal_8a753789-4b51-4d26-94b6-fa539b6b77ca",
+      "id": "mal_3f9294ff-39fa-4d6d-9574-f26e9b66957c",
       "lastWatchedAt": "2026-07-01T15:40:33+00:00",
       "mediaType": "anime",
       "progress": {
@@ -169,13 +169,13 @@
       "externalIds": {
         "mal": "62076"
       },
-      "id": "mal_b38b45ab-0221-457b-a10a-15841682efbd",
+      "id": "mal_b09fea89-5a33-4efa-9a98-548c48a9e750",
       "lastWatchedAt": "2026-06-22T12:15:45+00:00",
       "mediaType": "anime",
       "progress": {
         "episodesWatched": 12,
         "runtimeMinutes": 24,
-        "totalEpisodes": 0
+        "totalEpisodes": 12
       },
       "score": 0,
       "serviceSync": {
@@ -196,7 +196,7 @@
       "externalIds": {
         "mal": "49596"
       },
-      "id": "mal_6aa976a6-4ef3-4012-8bfd-b3bea2891d39",
+      "id": "mal_17246ab7-39b8-4c7d-a2b9-65e2be4e8ee4",
       "lastWatchedAt": "2026-06-06T09:05:05+00:00",
       "mediaType": "anime",
       "progress": {
@@ -223,7 +223,7 @@
       "externalIds": {
         "mal": "62601"
       },
-      "id": "mal_9a90669a-267c-4a6b-ae5e-f73b60f351fe",
+      "id": "mal_9b1d0e93-2458-42ad-9162-5aca5b36c2a1",
       "lastWatchedAt": "2026-05-31T09:21:03+00:00",
       "mediaType": "anime",
       "progress": {
@@ -250,7 +250,7 @@
       "externalIds": {
         "mal": "42897"
       },
-      "id": "mal_8f8a8413-fd97-4d20-b6b9-d4445102d9fd",
+      "id": "mal_e5da8748-ac8a-4fe7-ad96-e2b2eec469bb",
       "lastWatchedAt": "2026-05-31T09:20:25+00:00",
       "mediaType": "anime",
       "progress": {
@@ -277,7 +277,7 @@
       "externalIds": {
         "mal": "40911"
       },
-      "id": "mal_58414b50-04df-4693-87e5-f9fd664f63c4",
+      "id": "mal_f0a50e03-5a46-4fa4-8d52-77911db59878",
       "lastWatchedAt": "2026-05-31T09:20:12+00:00",
       "mediaType": "anime",
       "progress": {
@@ -304,7 +304,7 @@
       "externalIds": {
         "mal": "121"
       },
-      "id": "mal_52ba1021-0022-4a24-87a1-b5134b7f8c9a",
+      "id": "mal_29b7f0ed-90a9-44c8-8c3c-9933e0c286f8",
       "lastWatchedAt": "2026-04-28T08:33:29+00:00",
       "mediaType": "anime",
       "progress": {
@@ -331,7 +331,7 @@
       "externalIds": {
         "mal": "48583"
       },
-      "id": "mal_dcdb3330-3a59-4c6d-9435-945ad80d4c4f",
+      "id": "mal_57d47adb-8912-48b7-85e7-a4ff34b225fe",
       "lastWatchedAt": "2026-04-28T08:33:12+00:00",
       "mediaType": "anime",
       "progress": {
@@ -358,7 +358,7 @@
       "externalIds": {
         "mal": "50602"
       },
-      "id": "mal_3a4be41e-fba1-45a6-8b58-dc4ceda59a4e",
+      "id": "mal_af044b9b-7472-4990-82f2-68bf1f3a5031",
       "lastWatchedAt": "2026-04-28T08:33:06+00:00",
       "mediaType": "anime",
       "progress": {
@@ -385,7 +385,7 @@
       "externalIds": {
         "mal": "27891"
       },
-      "id": "mal_0f4ee49b-636f-4d1f-a2e8-a34d82228f0b",
+      "id": "mal_c9ff1493-e22a-49f7-8865-01da096ada5c",
       "lastWatchedAt": "2026-04-28T08:32:56+00:00",
       "mediaType": "anime",
       "progress": {
@@ -412,7 +412,7 @@
       "externalIds": {
         "mal": "36474"
       },
-      "id": "mal_4c8fac00-a9f5-4ad6-8550-dd79bcb7d670",
+      "id": "mal_2863df39-ac6b-4026-a534-7ad6d5ab7a0d",
       "lastWatchedAt": "2026-04-28T08:32:49+00:00",
       "mediaType": "anime",
       "progress": {
@@ -439,7 +439,7 @@
       "externalIds": {
         "mal": "40540"
       },
-      "id": "mal_e536639a-92ba-40ba-8e59-79f0ddc4c3f4",
+      "id": "mal_7291c6d9-27da-471b-b8b8-847f70a29d38",
       "lastWatchedAt": "2026-04-28T08:32:39+00:00",
       "mediaType": "anime",
       "progress": {
@@ -466,7 +466,7 @@
       "externalIds": {
         "mal": "25157"
       },
-      "id": "mal_c9e0fd1e-3422-49d4-be0f-4f489b87130e",
+      "id": "mal_79ab208d-0b50-4e89-afbe-766d831e8390",
       "lastWatchedAt": "2026-04-28T08:32:28+00:00",
       "mediaType": "anime",
       "progress": {
@@ -493,7 +493,7 @@
       "externalIds": {
         "mal": "59160"
       },
-      "id": "mal_77848a6d-1b7a-47ec-a054-b0239f83908e",
+      "id": "mal_a75af0e4-398b-433d-aaa5-be976ac57291",
       "lastWatchedAt": "2026-04-28T08:32:17+00:00",
       "mediaType": "anime",
       "progress": {
@@ -520,7 +520,7 @@
       "externalIds": {
         "mal": "60531"
       },
-      "id": "mal_3bd182c2-7675-4bf0-92d5-e073f58f05fa",
+      "id": "mal_ff712a1b-142b-4914-acab-8cf3c18f4265",
       "lastWatchedAt": "2026-04-28T08:30:48+00:00",
       "mediaType": "anime",
       "progress": {
@@ -547,7 +547,7 @@
       "externalIds": {
         "mal": "62568"
       },
-      "id": "mal_ba23f9de-cae1-4d39-b866-2add0799dfd4",
+      "id": "mal_2c7031d5-0c58-4c42-8f88-2b1681058389",
       "lastWatchedAt": "2026-04-28T08:30:11+00:00",
       "mediaType": "anime",
       "progress": {
@@ -574,7 +574,7 @@
       "externalIds": {
         "mal": "38671"
       },
-      "id": "mal_a88a939a-0ff9-493a-8916-c67abb310329",
+      "id": "mal_f9b38e8b-7063-4b38-b87f-a204c62d6154",
       "lastWatchedAt": "2026-04-28T08:29:09+00:00",
       "mediaType": "anime",
       "progress": {
@@ -601,7 +601,7 @@
       "externalIds": {
         "mal": "37105"
       },
-      "id": "mal_628e0795-a258-4cbb-9d9c-f88001520929",
+      "id": "mal_5fc4679a-7dd7-4000-a3be-6f5c8450d626",
       "lastWatchedAt": "2026-04-28T08:27:40+00:00",
       "mediaType": "anime",
       "progress": {
@@ -628,7 +628,7 @@
       "externalIds": {
         "mal": "19"
       },
-      "id": "mal_21c9b893-ac4e-44ff-ad47-6b1501915b74",
+      "id": "mal_a7c29c48-cd62-4207-bc67-a2dbb638bdbd",
       "lastWatchedAt": "2026-04-28T08:26:32+00:00",
       "mediaType": "anime",
       "progress": {
@@ -655,7 +655,7 @@
       "externalIds": {
         "mal": "48556"
       },
-      "id": "mal_ce808479-fd6f-4d98-8008-94af25410472",
+      "id": "mal_afd080a6-0db7-4d5b-9920-bdddc61ae0d7",
       "lastWatchedAt": "2026-04-28T08:24:53+00:00",
       "mediaType": "anime",
       "progress": {
@@ -682,7 +682,7 @@
       "externalIds": {
         "mal": "58390"
       },
-      "id": "mal_250a2d60-d747-4bb7-bca4-50d01ad199a1",
+      "id": "mal_999e99ff-c111-49b0-a2df-c6ea63bbf42f",
       "lastWatchedAt": "2026-04-28T08:24:24+00:00",
       "mediaType": "anime",
       "progress": {
@@ -709,7 +709,7 @@
       "externalIds": {
         "mal": "53447"
       },
-      "id": "mal_ff7890cd-d269-4755-b094-4d065181653f",
+      "id": "mal_37b79b60-7eeb-466f-a5ae-54cd114b30e6",
       "lastWatchedAt": "2026-04-28T08:23:50+00:00",
       "mediaType": "anime",
       "progress": {
@@ -736,7 +736,7 @@
       "externalIds": {
         "mal": "59192"
       },
-      "id": "mal_b1b86281-8dc5-4668-a628-4ec93bea425f",
+      "id": "mal_abedd8d0-e455-4859-9810-be5d256e0909",
       "lastWatchedAt": "2026-04-27T17:47:32+00:00",
       "mediaType": "anime",
       "progress": {
@@ -763,7 +763,7 @@
       "externalIds": {
         "mal": "60427"
       },
-      "id": "mal_2b859659-8b9b-4170-9808-6d964df30ff3",
+      "id": "mal_ae61994e-9096-4310-88f1-b9ce299122a1",
       "lastWatchedAt": "2026-04-25T18:55:03+00:00",
       "mediaType": "anime",
       "progress": {
@@ -790,7 +790,7 @@
       "externalIds": {
         "mal": "55825"
       },
-      "id": "mal_3caf896d-5c29-4911-93f8-fb7a86815015",
+      "id": "mal_0ebfaf10-72de-4efa-85fd-5677c02bee87",
       "lastWatchedAt": "2026-04-04T17:11:41+00:00",
       "mediaType": "anime",
       "progress": {
@@ -817,7 +817,7 @@
       "externalIds": {
         "mal": "59062"
       },
-      "id": "mal_7f11e30b-76b2-4edc-bb44-b1bc15e05a70",
+      "id": "mal_9c68e153-edf3-497a-938b-3839f3c4079a",
       "lastWatchedAt": "2026-03-01T18:31:58+00:00",
       "mediaType": "anime",
       "progress": {
@@ -844,7 +844,7 @@
       "externalIds": {
         "mal": "46569"
       },
-      "id": "mal_9b67de0c-fad5-4996-8794-cfb53ca89593",
+      "id": "mal_d9029785-57d0-43cf-afc9-8c2a811a73d7",
       "lastWatchedAt": "2026-02-10T17:35:12+00:00",
       "mediaType": "anime",
       "progress": {
@@ -871,7 +871,7 @@
       "externalIds": {
         "mal": "57555"
       },
-      "id": "mal_5001f8b0-13ba-4e6d-a130-78eb61cdf010",
+      "id": "mal_4d877888-7708-4294-a981-dd1ae6bd9aa2",
       "lastWatchedAt": "2026-01-28T13:16:47+00:00",
       "mediaType": "anime",
       "progress": {
@@ -898,7 +898,7 @@
       "externalIds": {
         "mal": "30276"
       },
-      "id": "mal_e5bd9b5c-9d2e-486d-923f-1765b9a19a76",
+      "id": "mal_e859eead-b43d-433d-a609-fb82bac05c85",
       "lastWatchedAt": "2026-01-27T14:20:39+00:00",
       "mediaType": "anime",
       "progress": {
@@ -925,7 +925,7 @@
       "externalIds": {
         "mal": "52807"
       },
-      "id": "mal_e172e30c-0484-4686-988d-5630b58b3f5f",
+      "id": "mal_461e6cab-e21a-4d4f-883f-b6bb5688938a",
       "lastWatchedAt": "2025-12-25T19:22:58+00:00",
       "mediaType": "anime",
       "progress": {
@@ -952,7 +952,7 @@
       "externalIds": {
         "mal": "60303"
       },
-      "id": "mal_ee8a87e0-9cdb-48f2-ba8a-13f006262daa",
+      "id": "mal_77c7ee49-6cff-480d-9fb9-bd1953a8ff38",
       "lastWatchedAt": "2025-12-11T19:33:42+00:00",
       "mediaType": "anime",
       "progress": {
@@ -979,7 +979,7 @@
       "externalIds": {
         "mal": "9135"
       },
-      "id": "mal_0a4dedb4-559e-4dac-bc37-02e7471e9db4",
+      "id": "mal_2d73c634-a364-4844-a419-1eb419797060",
       "lastWatchedAt": "2025-11-23T10:06:36+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1006,7 +1006,7 @@
       "externalIds": {
         "mal": "21"
       },
-      "id": "mal_9febed76-3506-476f-a747-07742ad5b31d",
+      "id": "mal_f182ec0f-d54a-4861-84ee-da08f8734885",
       "lastWatchedAt": "2025-11-22T19:06:18+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1033,7 +1033,7 @@
       "externalIds": {
         "mal": "5114"
       },
-      "id": "mal_9e06bb34-b5bf-435d-bcaa-1776fa48a3b3",
+      "id": "mal_f7052628-ff84-4801-97dd-db6efac265be",
       "lastWatchedAt": "2025-11-22T16:10:29+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1060,7 +1060,7 @@
       "externalIds": {
         "mal": "39597"
       },
-      "id": "mal_26b25384-96a2-4884-9115-b17456183fd3",
+      "id": "mal_3f1ef609-0def-47b1-96b6-3af4eb04d2be",
       "lastWatchedAt": "2025-11-17T20:10:59+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1087,7 +1087,7 @@
       "externalIds": {
         "mal": "39195"
       },
-      "id": "mal_1c2ac65d-a14a-45fc-9697-e6009c75658a",
+      "id": "mal_e1f33b6e-67ff-43cc-992a-791b1b693a07",
       "lastWatchedAt": "2025-11-16T20:33:30+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1114,7 +1114,7 @@
       "externalIds": {
         "mal": "34933"
       },
-      "id": "mal_29abe206-cd54-49c9-801a-0aa8c554f9c7",
+      "id": "mal_49bf99db-f83f-40ca-bfc9-1112b3be1a40",
       "lastWatchedAt": "2025-10-31T18:02:26+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1141,7 +1141,7 @@
       "externalIds": {
         "mal": "60732"
       },
-      "id": "mal_bfd0b0ff-c0c8-484b-822b-247c5433b0c2",
+      "id": "mal_eb8d3545-fb65-4b34-9b91-13f4ebf5c9ec",
       "lastWatchedAt": "2025-10-17T15:02:58+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1168,7 +1168,7 @@
       "externalIds": {
         "mal": "39652"
       },
-      "id": "mal_cd23134f-cb95-42fc-8610-84199ee17db0",
+      "id": "mal_3dfed7fb-4349-44a2-b926-a276bb186ee4",
       "lastWatchedAt": "2025-10-17T15:02:05+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1195,7 +1195,7 @@
       "externalIds": {
         "mal": "31772"
       },
-      "id": "mal_694568b4-663e-4a7b-9914-29f5f4226a21",
+      "id": "mal_c34972d3-5eac-4dca-8177-ac16dc22987f",
       "lastWatchedAt": "2025-10-17T15:01:25+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1222,7 +1222,7 @@
       "externalIds": {
         "mal": "2034"
       },
-      "id": "mal_620c07f9-ea0c-4d16-8c61-fb0c8509f199",
+      "id": "mal_64efc93b-7697-4273-852f-d59e2701f5d8",
       "lastWatchedAt": "2025-10-17T14:58:50+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1249,7 +1249,7 @@
       "externalIds": {
         "mal": "52481"
       },
-      "id": "mal_7328816a-496b-4f7f-bedb-56b41bc60858",
+      "id": "mal_142edff3-0aae-4f76-87fc-c52b819ab659",
       "lastWatchedAt": "2025-10-17T14:58:17+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1276,7 +1276,7 @@
       "externalIds": {
         "mal": "52701"
       },
-      "id": "mal_cfc75de1-d4ad-4cb9-97e3-674d09ba8c3f",
+      "id": "mal_cb551af3-696f-454b-93ff-6dcdd0fd2185",
       "lastWatchedAt": "2025-10-17T14:58:12+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1303,7 +1303,7 @@
       "externalIds": {
         "mal": "37450"
       },
-      "id": "mal_e3ea347c-4872-4d7d-a860-b27494837b4b",
+      "id": "mal_6161dc2c-2596-45d0-8a1d-3ee68acd7b64",
       "lastWatchedAt": "2025-10-17T14:57:46+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1330,7 +1330,7 @@
       "externalIds": {
         "mal": "42963"
       },
-      "id": "mal_0cfca643-e1a4-4954-8d7b-1adf64c9130b",
+      "id": "mal_2d2ade3a-33ed-424f-b748-afcf57ec4596",
       "lastWatchedAt": "2025-10-17T14:57:43+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1357,7 +1357,7 @@
       "externalIds": {
         "mal": "41094"
       },
-      "id": "mal_3d103b43-e9f0-47d3-a0dd-e0374d0e3664",
+      "id": "mal_3cf54f40-d574-43cd-872a-d5c642e6c117",
       "lastWatchedAt": "2025-10-17T14:57:37+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1384,7 +1384,7 @@
       "externalIds": {
         "mal": "58514"
       },
-      "id": "mal_04200b7a-42fa-442f-8b6d-c20aadcb62c0",
+      "id": "mal_55cc3686-2393-41b6-8b1b-4f71bd171f61",
       "lastWatchedAt": "2025-10-17T14:57:25+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1411,7 +1411,7 @@
       "externalIds": {
         "mal": "60543"
       },
-      "id": "mal_0e7a9c0c-b029-4234-a169-32c8b77d52c1",
+      "id": "mal_ce8882b4-19ef-4497-bf6b-c9df44577f85",
       "lastWatchedAt": "2025-10-17T14:56:03+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1438,7 +1438,7 @@
       "externalIds": {
         "mal": "53065"
       },
-      "id": "mal_8b1dc8bf-c023-47bc-847d-db4216e8e711",
+      "id": "mal_ea6db343-8da3-4490-854d-887881fc3a78",
       "lastWatchedAt": "2025-10-17T14:55:55+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1465,7 +1465,7 @@
       "externalIds": {
         "mal": "60285"
       },
-      "id": "mal_47ee6ec9-b486-4391-a828-d137dec2d002",
+      "id": "mal_7bb6bea4-9439-4e0f-b3ae-82f82dca9fd9",
       "lastWatchedAt": "2025-10-17T14:55:50+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1492,7 +1492,7 @@
       "externalIds": {
         "mal": "59845"
       },
-      "id": "mal_c381e809-431c-4871-a8b7-b863b67d2aa2",
+      "id": "mal_0f72db6a-99c2-4c45-ac2d-49a980b02385",
       "lastWatchedAt": "2025-10-17T14:55:44+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1519,7 +1519,7 @@
       "externalIds": {
         "mal": "23273"
       },
-      "id": "mal_d02f04d7-2193-4c6b-95d6-02e9ab8fc48a",
+      "id": "mal_16fee427-dc2e-476e-ae26-5ada5ab9ed3c",
       "lastWatchedAt": "2025-10-17T14:55:37+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1546,7 +1546,7 @@
       "externalIds": {
         "mal": "32281"
       },
-      "id": "mal_25f0f2bd-d506-495b-b5b5-42deb459f8ed",
+      "id": "mal_61e7a11a-d11e-4af9-8f62-e18666d6a9ec",
       "lastWatchedAt": "2025-10-17T14:55:32+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1573,7 +1573,7 @@
       "externalIds": {
         "mal": "48736"
       },
-      "id": "mal_b03de925-dbbf-4b82-9c65-ae6bfbdee0cc",
+      "id": "mal_011a5831-ea0a-4828-b82c-01dd51f3da63",
       "lastWatchedAt": "2025-09-28T04:43:25+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1600,7 +1600,7 @@
       "externalIds": {
         "mal": "28999"
       },
-      "id": "mal_33433afd-a6ee-45a3-ac6f-fd4abe5c3e9c",
+      "id": "mal_e4f61e7b-1245-42db-98d1-f9b673799b52",
       "lastWatchedAt": "2025-09-02T07:37:08+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1627,7 +1627,7 @@
       "externalIds": {
         "mal": "34176"
       },
-      "id": "mal_7eaecc18-a1f9-48b9-92ce-d50ee9ee1e6d",
+      "id": "mal_eeff9e2e-d5f0-432b-a49b-2d4894f5e88a",
       "lastWatchedAt": "2025-09-01T20:54:15+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1654,7 +1654,7 @@
       "externalIds": {
         "mal": "31240"
       },
-      "id": "mal_8a2c2b3f-4de0-4b29-9ad3-7b545abbb7af",
+      "id": "mal_38d2c867-597b-4c5a-be55-827ceff5ed1a",
       "lastWatchedAt": "2025-09-01T20:53:50+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1681,7 +1681,7 @@
       "externalIds": {
         "mal": "17265"
       },
-      "id": "mal_6ddf167e-b46c-4d75-9e5d-ee022e279f32",
+      "id": "mal_bdf24f47-e7bb-4505-9d7c-775155d1eba1",
       "lastWatchedAt": "2025-09-01T20:53:35+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1708,7 +1708,7 @@
       "externalIds": {
         "mal": "269"
       },
-      "id": "mal_ab218d99-7eed-4bdb-a0af-398494986899",
+      "id": "mal_786e88bc-1c07-40a1-87e2-ce224147df0b",
       "lastWatchedAt": "2025-09-01T20:52:42+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1735,7 +1735,7 @@
       "externalIds": {
         "mal": "34572"
       },
-      "id": "mal_dfc17a55-6918-4945-ae7d-0b5f56e2e56f",
+      "id": "mal_574c7274-4111-4d8d-8fcc-3ac82154c0ed",
       "lastWatchedAt": "2025-09-01T20:52:27+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1762,7 +1762,7 @@
       "externalIds": {
         "mal": "54744"
       },
-      "id": "mal_0dbdf09b-8278-4875-8469-81a30b307490",
+      "id": "mal_d4b00abd-7ab8-46d9-87e0-bca62aba8bac",
       "lastWatchedAt": "2025-09-01T20:52:03+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1789,7 +1789,7 @@
       "externalIds": {
         "mal": "53407"
       },
-      "id": "mal_481fba84-ce9e-4404-9071-a882f6cf4c39",
+      "id": "mal_8b4965cf-3caa-4ee4-ae93-c02a0f289fc5",
       "lastWatchedAt": "2025-09-01T20:36:36+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1816,7 +1816,7 @@
       "externalIds": {
         "mal": "58939"
       },
-      "id": "mal_06da2aef-997f-48c1-a42a-316bfca96492",
+      "id": "mal_3d3975b3-dcd5-466c-b277-23d414b7085a",
       "lastWatchedAt": "2025-09-01T20:35:10+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1843,7 +1843,7 @@
       "externalIds": {
         "mal": "49387"
       },
-      "id": "mal_943eee51-088f-4046-a3f3-a821680a78cc",
+      "id": "mal_84b1de63-a72a-49c6-979d-24dbdf9894d6",
       "lastWatchedAt": "2025-08-31T17:32:28+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1870,7 +1870,7 @@
       "externalIds": {
         "mal": "44074"
       },
-      "id": "mal_f2b9ee4a-12c4-479d-8102-edc750e3ccf0",
+      "id": "mal_d46dc9ad-25a0-4ca7-a54c-a46f657385fd",
       "lastWatchedAt": "2025-08-31T17:32:21+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1897,7 +1897,7 @@
       "externalIds": {
         "mal": "37521"
       },
-      "id": "mal_58667315-4a3c-4aee-b578-535e74725517",
+      "id": "mal_94c6a653-8762-4c57-9034-2e5fc65a10f3",
       "lastWatchedAt": "2025-08-31T17:32:17+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1924,7 +1924,7 @@
       "externalIds": {
         "mal": "35737"
       },
-      "id": "mal_95f83685-8c3a-4f3c-9df7-010321ac2c28",
+      "id": "mal_dc3115e5-148c-4ccf-a994-9e645a367d31",
       "lastWatchedAt": "2025-08-31T17:32:13+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1951,7 +1951,7 @@
       "externalIds": {
         "mal": "9253"
       },
-      "id": "mal_b5cfe8c7-f65c-4866-8723-e4f5d31098d1",
+      "id": "mal_0500c004-ef11-4c08-ae39-8192178d3832",
       "lastWatchedAt": "2025-08-31T17:32:10+00:00",
       "mediaType": "anime",
       "progress": {
@@ -1978,7 +1978,7 @@
       "externalIds": {
         "mal": "1535"
       },
-      "id": "mal_f23517c5-be04-4d14-8a4d-588f3e09f6af",
+      "id": "mal_5202ca42-4483-4cd5-9484-42a5fdf8b98d",
       "lastWatchedAt": "2025-08-31T17:31:39+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2005,7 +2005,7 @@
       "externalIds": {
         "mal": "39705"
       },
-      "id": "mal_9da5c617-33b4-4bc4-9bbd-766f282ddd84",
+      "id": "mal_4d7c70f8-99e1-42b0-b95b-3de0d24e0d05",
       "lastWatchedAt": "2025-08-26T14:11:56+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2032,7 +2032,7 @@
       "externalIds": {
         "mal": "34134"
       },
-      "id": "mal_556ebd9e-c326-4021-9fbc-c999512a539b",
+      "id": "mal_c2eb2445-9845-422c-a94e-1033aa5fc8b7",
       "lastWatchedAt": "2025-08-26T14:11:24+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2059,7 +2059,7 @@
       "externalIds": {
         "mal": "44511"
       },
-      "id": "mal_7c66c3c5-18f9-4bf2-90e5-a9b279f81b89",
+      "id": "mal_3bd5fa8c-19c4-4117-8208-797245ec64ca",
       "lastWatchedAt": "2025-08-26T14:10:42+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2086,7 +2086,7 @@
       "externalIds": {
         "mal": "42923"
       },
-      "id": "mal_b0b9a9c5-c852-42bf-9b57-18aabc034f7b",
+      "id": "mal_1c666f24-0877-4e15-aeef-de3fa072e1ca",
       "lastWatchedAt": "2025-08-26T14:07:27+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2113,7 +2113,7 @@
       "externalIds": {
         "mal": "60489"
       },
-      "id": "mal_f4b1e2df-afec-4e2a-9070-84239d19c8cf",
+      "id": "mal_7a3978d2-8a19-4461-a78d-462fab2f3018",
       "lastWatchedAt": "2025-08-10T18:20:09+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2140,7 +2140,7 @@
       "externalIds": {
         "mal": "199"
       },
-      "id": "mal_5b274d9f-7046-49ae-8b9e-f5d936f2a4bf",
+      "id": "mal_9ba603a3-5843-4eaf-8fce-324593ae74e1",
       "lastWatchedAt": "2025-08-10T17:23:34+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2167,7 +2167,7 @@
       "externalIds": {
         "mal": "6675"
       },
-      "id": "mal_d5273ab9-d6b0-486c-aa53-8a1bc6a83101",
+      "id": "mal_979e3001-331f-494f-b350-2d2360c8a1e3",
       "lastWatchedAt": "2025-08-02T11:00:51+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2194,7 +2194,7 @@
       "externalIds": {
         "mal": "326"
       },
-      "id": "mal_f5fc58a6-b079-40d9-b9b0-8857e1264d83",
+      "id": "mal_c090c27b-a838-4ba0-ac7d-4d00d4314627",
       "lastWatchedAt": "2025-08-02T11:00:20+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2221,7 +2221,7 @@
       "externalIds": {
         "mal": "48561"
       },
-      "id": "mal_465af397-bae1-4a54-b280-7420b5bdc2f4",
+      "id": "mal_91653f3a-3e1a-4a71-8d45-38cc14089ac5",
       "lastWatchedAt": "2025-08-02T10:57:27+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2248,7 +2248,7 @@
       "externalIds": {
         "mal": "40748"
       },
-      "id": "mal_e61dcaa4-d238-4cf2-9872-c6ae19329819",
+      "id": "mal_50f61fea-bf52-4977-97e6-fba5cf2f261e",
       "lastWatchedAt": "2025-08-02T10:57:15+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2275,7 +2275,7 @@
       "externalIds": {
         "mal": "40839"
       },
-      "id": "mal_a120aaac-1d20-4fbf-999d-bdf26deb4bc0",
+      "id": "mal_47da4184-7b29-476c-ae9f-cc268c690c9d",
       "lastWatchedAt": "2025-08-02T10:55:31+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2302,7 +2302,7 @@
       "externalIds": {
         "mal": "60057"
       },
-      "id": "mal_c450a0e4-d4f5-4987-af88-e49ced260c3b",
+      "id": "mal_1cc8f533-368e-4783-b05e-327bb5c154ff",
       "lastWatchedAt": "2025-08-02T10:49:41+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2329,7 +2329,7 @@
       "externalIds": {
         "mal": "54112"
       },
-      "id": "mal_32d8e7b8-d347-4421-9f0d-74b3fc849a9d",
+      "id": "mal_78438663-d536-4b82-b529-e7dc31f616f9",
       "lastWatchedAt": "2025-08-02T10:43:30+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2356,7 +2356,7 @@
       "externalIds": {
         "mal": "55813"
       },
-      "id": "mal_a3ff7ae2-d578-41a6-b186-3b1dbb81511c",
+      "id": "mal_0acff029-1b39-41ec-ae5e-9c5c1b3ebdea",
       "lastWatchedAt": "2025-08-02T10:41:28+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2383,7 +2383,7 @@
       "externalIds": {
         "mal": "52211"
       },
-      "id": "mal_8ba997a7-4a01-4a47-8b82-9d0f630ab5ca",
+      "id": "mal_199186d7-5a5c-4ecd-b74f-e2c40f54c33a",
       "lastWatchedAt": "2025-08-02T10:41:22+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2410,7 +2410,7 @@
       "externalIds": {
         "mal": "50608"
       },
-      "id": "mal_d9e686c1-e433-4d52-9392-a74730099c9c",
+      "id": "mal_0aa63593-03c2-4eae-8192-8e6ebfc08783",
       "lastWatchedAt": "2025-08-02T10:40:48+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2437,7 +2437,7 @@
       "externalIds": {
         "mal": "54918"
       },
-      "id": "mal_0e76de58-45ab-4b88-b189-4ba5654dd49a",
+      "id": "mal_0e14b7b1-7a25-49b9-8527-405e9cba2701",
       "lastWatchedAt": "2025-08-02T10:40:41+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2464,7 +2464,7 @@
       "externalIds": {
         "mal": "22319"
       },
-      "id": "mal_17051305-a297-476c-87f7-a687f1bf6b41",
+      "id": "mal_4484e7fa-a3a4-4219-8cf3-93677c6dc44e",
       "lastWatchedAt": "2025-08-02T10:40:19+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2491,7 +2491,7 @@
       "externalIds": {
         "mal": "42310"
       },
-      "id": "mal_88d42d69-09eb-4484-b1c4-a47eaa5a54bc",
+      "id": "mal_52f4cb04-9f22-4bc6-b6fa-80deadbc3ee1",
       "lastWatchedAt": "2025-08-02T10:36:07+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2518,7 +2518,7 @@
       "externalIds": {
         "mal": "23775"
       },
-      "id": "mal_5704eb2c-501a-42d4-bd0e-0bab6195b9a0",
+      "id": "mal_eae2c8d1-6d46-4e76-b9cb-bfe3b9b10d1a",
       "lastWatchedAt": "2025-08-02T10:35:37+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2545,7 +2545,7 @@
       "externalIds": {
         "mal": "40028"
       },
-      "id": "mal_c8e73417-40fd-4b10-90d3-bec01518f74c",
+      "id": "mal_634d2de6-e95f-45ea-bb82-061b718d0c4c",
       "lastWatchedAt": "2025-08-02T10:35:31+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2572,7 +2572,7 @@
       "externalIds": {
         "mal": "25777"
       },
-      "id": "mal_c3403075-f364-4220-8505-30e8d00f7e1f",
+      "id": "mal_99704d9b-3fda-48af-9040-13a07441e9ac",
       "lastWatchedAt": "2025-08-02T10:35:27+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2599,7 +2599,7 @@
       "externalIds": {
         "mal": "23777"
       },
-      "id": "mal_5d82db8a-a4c3-4520-bff3-1d64508dfb7e",
+      "id": "mal_978269e9-2d5a-4717-8493-1bb14b510f6e",
       "lastWatchedAt": "2025-08-02T10:35:21+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2626,7 +2626,7 @@
       "externalIds": {
         "mal": "38524"
       },
-      "id": "mal_06f954ef-f63f-49e2-a527-0f54d5256b46",
+      "id": "mal_1dd5483e-1a7e-4c4c-bffa-b2892437248c",
       "lastWatchedAt": "2025-08-02T10:35:16+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2653,7 +2653,7 @@
       "externalIds": {
         "mal": "35760"
       },
-      "id": "mal_074a1ae1-9c3f-450b-b5db-a86d1b858889",
+      "id": "mal_4e8f5682-920d-4ef2-9058-083903c9ae95",
       "lastWatchedAt": "2025-08-02T10:35:12+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2680,7 +2680,7 @@
       "externalIds": {
         "mal": "16498"
       },
-      "id": "mal_dbdfb62d-82f1-49e3-a061-8c00ae50921b",
+      "id": "mal_5afbf54c-c429-4171-9738-4d3406848ebc",
       "lastWatchedAt": "2025-08-02T10:35:08+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2707,7 +2707,7 @@
       "externalIds": {
         "mal": "56752"
       },
-      "id": "mal_972ca247-1b85-4737-8647-7a18fb5973bd",
+      "id": "mal_9567dc6e-cdae-46b0-ad99-8dd1412ff200",
       "lastWatchedAt": "2025-08-02T10:34:20+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2734,7 +2734,7 @@
       "externalIds": {
         "mal": "49413"
       },
-      "id": "mal_db5c34fe-11cc-411a-9209-090f1b1f6f40",
+      "id": "mal_73829bc5-5db2-4cc5-a8ca-7a56a391efaf",
       "lastWatchedAt": "2025-08-02T10:34:11+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2761,7 +2761,7 @@
       "externalIds": {
         "mal": "31765"
       },
-      "id": "mal_ad8ae4aa-70f0-4ea5-b9dd-8e14bd8e9a88",
+      "id": "mal_a757058b-97bd-4075-8847-83c63322d506",
       "lastWatchedAt": "2025-08-02T10:33:12+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2788,7 +2788,7 @@
       "externalIds": {
         "mal": "21881"
       },
-      "id": "mal_22667640-8a6b-483a-bb07-4c670f5eb3c6",
+      "id": "mal_2d4583f9-6aa6-4a63-93c6-3f0561a9ea8f",
       "lastWatchedAt": "2025-08-02T10:31:00+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2815,7 +2815,7 @@
       "externalIds": {
         "mal": "20021"
       },
-      "id": "mal_62b2314a-2862-4931-9326-2c428be6ad33",
+      "id": "mal_fba15e95-1031-48b3-9544-8fedd88e259b",
       "lastWatchedAt": "2025-08-02T10:30:00+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2842,7 +2842,7 @@
       "externalIds": {
         "mal": "11757"
       },
-      "id": "mal_c3531308-5d79-4946-80ea-73b25620f84c",
+      "id": "mal_7c4f05cd-4728-42bd-bb8f-ab891f96a548",
       "lastWatchedAt": "2025-08-02T10:29:41+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2869,7 +2869,7 @@
       "externalIds": {
         "mal": "11577"
       },
-      "id": "mal_b9bc3129-bb8e-453f-aeab-0e84ec97b601",
+      "id": "mal_6311967a-eab4-4a09-a16e-72b8323205a5",
       "lastWatchedAt": "2025-08-02T10:27:30+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2896,7 +2896,7 @@
       "externalIds": {
         "mal": "51019"
       },
-      "id": "mal_fe8bf0d5-34fe-47fe-9871-7fad7e73c036",
+      "id": "mal_475dd052-1b3c-4661-b537-3f893c646d45",
       "lastWatchedAt": "2025-08-02T10:26:26+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2923,7 +2923,7 @@
       "externalIds": {
         "mal": "47778"
       },
-      "id": "mal_392b7afb-2b0f-488f-bbaa-b67033ceb576",
+      "id": "mal_542b33ec-d8a8-4d03-b464-5cc44a707e54",
       "lastWatchedAt": "2025-08-02T10:26:19+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2950,7 +2950,7 @@
       "externalIds": {
         "mal": "55701"
       },
-      "id": "mal_acb80775-3fa8-4c26-9ab5-6f9d0b014416",
+      "id": "mal_a22d5dfd-315c-4142-82cc-23a6c9a7b941",
       "lastWatchedAt": "2025-08-02T10:26:15+00:00",
       "mediaType": "anime",
       "progress": {
@@ -2977,7 +2977,7 @@
       "externalIds": {
         "mal": "49926"
       },
-      "id": "mal_5cf3d6d3-6765-4947-873f-44b4cb549e99",
+      "id": "mal_87d0868f-1345-4f8d-abe4-4f5e9d35c70d",
       "lastWatchedAt": "2025-08-02T10:26:11+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3004,7 +3004,7 @@
       "externalIds": {
         "mal": "40456"
       },
-      "id": "mal_b79e0d95-33d2-4ebc-8b39-dd2905635bfc",
+      "id": "mal_c82ebff0-1f2e-4d86-a57d-7eb798ffd99c",
       "lastWatchedAt": "2025-08-02T10:26:05+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3031,7 +3031,7 @@
       "externalIds": {
         "mal": "38000"
       },
-      "id": "mal_d4f0f4d6-715f-47f5-a50e-88d097d53e3e",
+      "id": "mal_a23cd08a-6a7e-467c-a378-7564e3a52a5c",
       "lastWatchedAt": "2025-08-02T10:25:53+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3058,7 +3058,7 @@
       "externalIds": {
         "mal": "58567"
       },
-      "id": "mal_e6d14f23-c470-4ed1-917e-65c82f18b038",
+      "id": "mal_7ded5d0f-823a-4336-84ee-b7a4a3458680",
       "lastWatchedAt": "2025-08-02T10:25:16+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3085,7 +3085,7 @@
       "externalIds": {
         "mal": "52299"
       },
-      "id": "mal_558febda-3757-4766-b49b-2c81d74fb3a4",
+      "id": "mal_87a00d55-2f32-4ec1-a611-bdf853149df9",
       "lastWatchedAt": "2025-08-02T10:25:11+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3112,7 +3112,7 @@
       "externalIds": {
         "mal": "35120"
       },
-      "id": "mal_529b13a0-11df-448e-b553-666b4351877a",
+      "id": "mal_1e47aaaa-fe0b-4e78-9090-642f20751aa7",
       "lastWatchedAt": "2025-08-02T10:24:15+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3139,7 +3139,7 @@
       "externalIds": {
         "mal": "54492"
       },
-      "id": "mal_c4156e91-c6fd-47da-93fb-9de11c2cdf55",
+      "id": "mal_cadadb6e-4867-4fc8-b6bc-bc969e37cf14",
       "lastWatchedAt": "2025-08-02T10:23:15+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3166,7 +3166,7 @@
       "externalIds": {
         "mal": "56038"
       },
-      "id": "mal_18d6e0a2-4bee-496c-b25b-22696c0d7ac6",
+      "id": "mal_f95d4602-cfcf-482c-8849-b7ad7f91ae5d",
       "lastWatchedAt": "2025-08-02T10:22:52+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3193,7 +3193,7 @@
       "externalIds": {
         "mal": "54900"
       },
-      "id": "mal_eef1c9f9-b67a-47f2-bcc8-29d3ff285107",
+      "id": "mal_800bfd1f-9e19-434e-9975-7a459cdd4ed5",
       "lastWatchedAt": "2025-08-02T10:22:16+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3220,7 +3220,7 @@
       "externalIds": {
         "mal": "57334"
       },
-      "id": "mal_7ba07687-6ad3-48f1-8274-d9671bf5ec61",
+      "id": "mal_7670a5b6-d753-40fb-b291-d2167d61d391",
       "lastWatchedAt": "2025-08-02T10:20:06+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3247,7 +3247,7 @@
       "externalIds": {
         "mal": "48549"
       },
-      "id": "mal_134c7c30-c948-407f-b2bd-02fe69f59ce8",
+      "id": "mal_e1b39327-473b-4c15-9dbf-1475435ef0ca",
       "lastWatchedAt": "2025-08-02T10:18:20+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3274,7 +3274,7 @@
       "externalIds": {
         "mal": "50612"
       },
-      "id": "mal_29432f70-3902-48b6-a59c-e00fac405b80",
+      "id": "mal_2a1b9ef2-b819-4bf6-83a0-ac8859479fe3",
       "lastWatchedAt": "2025-08-02T10:17:38+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3301,7 +3301,7 @@
       "externalIds": {
         "mal": "40852"
       },
-      "id": "mal_20d1b369-d13e-4708-abe3-e37917108a88",
+      "id": "mal_276df4e0-10c1-4dee-b89a-988745f92095",
       "lastWatchedAt": "2025-08-02T10:16:47+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3328,7 +3328,7 @@
       "externalIds": {
         "mal": "38691"
       },
-      "id": "mal_f9a2e192-e054-445b-ae0b-9df5141e05f9",
+      "id": "mal_e2e7afc1-4ec8-4ff8-a14e-041846111d76",
       "lastWatchedAt": "2025-08-02T10:16:19+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3355,7 +3355,7 @@
       "externalIds": {
         "mal": "50346"
       },
-      "id": "mal_cc9ea518-bf3e-4f33-b72e-6edc9d28bed9",
+      "id": "mal_4c4c7df4-60ad-4d81-912e-125e9866214d",
       "lastWatchedAt": "2025-08-02T10:12:43+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3382,7 +3382,7 @@
       "externalIds": {
         "mal": "50265"
       },
-      "id": "mal_1f622107-db58-4410-b8d5-c22ce275c9f2",
+      "id": "mal_2490c529-c5bb-4890-a05f-dcf8285f4f0e",
       "lastWatchedAt": "2024-12-01T08:56:17+00:00",
       "mediaType": "anime",
       "progress": {
@@ -3409,7 +3409,7 @@
       "externalIds": {
         "mal": "42249"
       },
-      "id": "mal_0ee62f79-95be-44cf-a157-8f54d38642d3",
+      "id": "mal_ccb41b30-bd99-4e4e-9019-0c6b4015b873",
       "lastWatchedAt": "2024-12-01T08:54:42+00:00",
       "mediaType": "anime",
       "progress": {
