@@ -1,15 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-12T14:06:21.620Z",
+  "updatedAt": "2026-07-12T14:36:03.545Z",
   "entries": [
     {
       "createdAt": "2025-09-02T07:20:01Z",
       "externalIds": {
-        "simkl": "494782"
+        "simkl": "494782",
+        "tmdb": "62649"
       },
       "id": "simkl_eeccebbe-dd7c-4098-b2be-1f8974e1df4d",
       "lastWatchedAt": "2026-07-12T14:06:20.419Z",
       "mediaType": "tv",
+      "originalTitle": "Superstore",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/2tpY5qIYwH85njvjI5BnH4VNA6p.jpg",
       "progress": {
         "episodesWatched": 71,
         "runtimeMinutes": 45,
@@ -18,20 +21,26 @@
       "serviceSync": {
         "simkl": {
           "externalId": "494782",
-          "lastPushedAt": "2026-07-12T13:45:30.048Z",
-          "lastSyncedAt": "2026-07-12T13:45:30.048Z",
+          "lastPushedAt": "2026-07-12T14:06:23.481Z",
+          "lastSyncedAt": "2026-07-12T14:06:23.481Z",
           "status": "synced"
         },
         "trakt": {
-          "lastError": "Failed to fetch",
+          "lastError": "Trakt istegi basarisiz (500).",
           "status": "error"
+        },
+        "tmdb": {
+          "externalId": "62649",
+          "lastPushedAt": "2026-07-12T14:06:23.242Z",
+          "lastSyncedAt": "2026-07-12T14:06:23.242Z",
+          "status": "synced"
         }
       },
       "source": "simkl",
       "status": "watching",
       "title": "Superstore",
       "totalWatchedMinutes": 3195,
-      "updatedAt": "2026-07-12T14:06:20.419Z"
+      "updatedAt": "2026-07-12T14:06:23.885Z"
     },
     {
       "createdAt": "2026-07-09T20:20:18+00:00",
