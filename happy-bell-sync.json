@@ -39,6 +39,19 @@
       "totalEpisodes": 1,
       "urlTemplate": "https://x.anizium.co/embed?id=1378101340814782&season=2&episode=2&server=2&skin=art&u=69617296101&plan=1"
     },
+    "1868074734775945": {
+      "currentTime": 2700.42799,
+      "duration": 2705.748444,
+      "embedId": "1868074734775945",
+      "episode": 1,
+      "lastWatchedAt": 1783441692646,
+      "malAnimeId": 10408,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
+      "season": 1,
+      "title": "Hotarubi no Mori e",
+      "totalEpisodes": 1,
+      "urlTemplate": "https://x.anizium.co/embed?id=1868074734775945&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
+    },
     "2725013737474164": {
       "currentTime": 398.784688,
       "duration": 1420.1271109999973,
@@ -103,19 +116,6 @@
       "title": "Yamada-kun to Lv999 no Koi wo Suru",
       "totalEpisodes": 13,
       "urlTemplate": "https://x.anizium.co/embed?id=4149262909617863&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1&t=5"
-    },
-    "1868074734775945": {
-      "currentTime": 2700.42799,
-      "duration": 2705.748444,
-      "embedId": "1868074734775945",
-      "episode": 1,
-      "lastWatchedAt": 1783441692646,
-      "malAnimeId": 10408,
-      "posterUrl": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
-      "season": 1,
-      "title": "Hotarubi no Mori e",
-      "totalEpisodes": 1,
-      "urlTemplate": "https://x.anizium.co/embed?id=1868074734775945&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
     }
   },
   "mappings": {
@@ -198,5 +198,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1784134436547
+  "updatedAt": 1784372860499
 }
