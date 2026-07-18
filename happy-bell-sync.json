@@ -78,6 +78,19 @@
       "totalEpisodes": 13,
       "urlTemplate": "https://x.anizium.co/embed?id=2830385732637979&season=1&episode=13&server=2&skin=art&u=69617296101&plan=1"
     },
+    "3144632685893205": {
+      "currentTime": 4.27242,
+      "duration": 1422.0036109999817,
+      "embedId": "3144632685893205",
+      "episode": 1,
+      "lastWatchedAt": 1784375362315,
+      "malAnimeId": 63403,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1281/156496.jpg",
+      "season": 1,
+      "title": "Yani Neko",
+      "totalEpisodes": 1,
+      "urlTemplate": "https://x.anizium.co/embed?id=3144632685893205&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
+    },
     "3281611228677324": {
       "currentTime": 707.797871,
       "duration": 762.8849999999964,
@@ -168,6 +181,13 @@
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1171/156397.jpg",
       "totalEpisodes": 24
     },
+    "3144632685893205": {
+      "malAnimeId": 63403,
+      "malTitle": "Yani Neko",
+      "mappedAt": 1784375349368,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1281/156496.jpg",
+      "totalEpisodes": 0
+    },
     "3281611228677324": {
       "malAnimeId": 62076,
       "malTitle": "Super no Ura de Yani Suu Futari",
@@ -198,5 +218,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1784372860499
+  "updatedAt": 1784375372642
 }
