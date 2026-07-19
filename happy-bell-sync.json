@@ -83,7 +83,7 @@
       "duration": 1422.0036109999817,
       "embedId": "3144632685893205",
       "episode": 1,
-      "lastWatchedAt": 1784375386512,
+      "lastWatchedAt": 1784375565347,
       "malAnimeId": 63403,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1281/156496.jpg",
       "season": 1,
@@ -218,5 +218,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1784375396831
+  "updatedAt": 1784458043563
 }
