@@ -14,11 +14,11 @@
       "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=24&server=2&skin=art&u=69617296101&plan=1"
     },
     "867089702": {
-      "currentTime": 1304.051472,
+      "currentTime": 1331.386238,
       "duration": 1423.4232360000003,
       "embedId": "867089702",
       "episode": 17,
-      "lastWatchedAt": 1786565023203,
+      "lastWatchedAt": 1786565092143,
       "malAnimeId": 30,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.webp",
       "season": 1,
@@ -218,5 +218,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1786565033743
+  "updatedAt": 1786565102780
 }
