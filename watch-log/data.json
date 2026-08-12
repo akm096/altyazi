@@ -1,7 +1,43 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T17:30:59.241Z",
+  "updatedAt": "2026-08-12T19:21:03.696Z",
   "entries": [
+    {
+      "createdAt": "2026-08-12T18:49:56+00:00",
+      "externalIds": {
+        "mal": "30"
+      },
+      "id": "mal_dcb324a8-4902-4cd7-a4f1-f2eae85af48f",
+      "lastWatchedAt": "2026-08-12T18:49:56+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 15,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 26
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "30",
+          "lastSyncedAt": "2026-08-12T18:49:56+00:00",
+          "status": "synced"
+        },
+        "simkl": {
+          "lastPushedAt": "2026-07-12T13:45:06.312Z",
+          "lastSyncedAt": "2026-07-12T13:45:06.312Z",
+          "status": "synced"
+        },
+        "anilist": {
+          "lastError": "AniList istegi basarisiz (429).",
+          "status": "error"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Shinseiki Evangelion",
+      "totalWatchedMinutes": 360,
+      "updatedAt": "2026-08-12T18:49:56+00:00"
+    },
     {
       "createdAt": "2025-09-02T07:20:01Z",
       "externalIds": {
@@ -113,42 +149,6 @@
       "title": "Hotarubi no Mori e",
       "totalWatchedMinutes": 24,
       "updatedAt": "2026-07-12T13:45:52.723Z"
-    },
-    {
-      "createdAt": "2026-07-04T13:52:49+00:00",
-      "externalIds": {
-        "mal": "30"
-      },
-      "id": "mal_e3ef7382-3a92-4aa9-b553-d2fe61b405d4",
-      "lastWatchedAt": "2026-07-04T13:52:49+00:00",
-      "mediaType": "anime",
-      "progress": {
-        "episodesWatched": 14,
-        "runtimeMinutes": 24,
-        "totalEpisodes": 26
-      },
-      "score": 0,
-      "serviceSync": {
-        "mal": {
-          "externalId": "30",
-          "lastSyncedAt": "2026-07-04T13:52:49+00:00",
-          "status": "synced"
-        },
-        "simkl": {
-          "lastPushedAt": "2026-07-12T13:45:06.312Z",
-          "lastSyncedAt": "2026-07-12T13:45:06.312Z",
-          "status": "synced"
-        },
-        "anilist": {
-          "lastError": "AniList istegi basarisiz (429).",
-          "status": "error"
-        }
-      },
-      "source": "mal",
-      "status": "watching",
-      "title": "Shinseiki Evangelion",
-      "totalWatchedMinutes": 336,
-      "updatedAt": "2026-07-12T13:45:52.709Z"
     },
     {
       "createdAt": "2026-07-04T09:32:06+00:00",
