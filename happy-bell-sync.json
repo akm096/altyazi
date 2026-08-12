@@ -14,17 +14,17 @@
       "urlTemplate": "https://x.anizium.co/embed?id=797484498&season=1&episode=24&server=2&skin=art&u=69617296101&plan=1"
     },
     "867089702": {
-      "currentTime": 523.602974,
+      "currentTime": 684.537771,
       "duration": 1423.256402999997,
       "embedId": "867089702",
       "episode": 15,
-      "lastWatchedAt": 1783438836527,
+      "lastWatchedAt": 1786559952587,
       "malAnimeId": 30,
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.webp",
       "season": 1,
       "title": "Shinseiki Evangelion",
       "totalEpisodes": 26,
-      "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=15&server=2&skin=art&u=69617296101&plan=1&t=99"
+      "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=15&server=2&skin=art&u=69617296101&plan=1&t=493"
     },
     "1378101340814782": {
       "currentTime": 74.523332,
@@ -218,5 +218,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1784458043563
+  "updatedAt": 1786559963102
 }
