@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T19:21:03.696Z",
+  "updatedAt": "2026-08-13T08:18:17.693Z",
   "entries": [
     {
-      "createdAt": "2026-08-12T18:49:56+00:00",
+      "createdAt": "2026-08-12T20:02:28+00:00",
       "externalIds": {
         "mal": "30"
       },
-      "id": "mal_dcb324a8-4902-4cd7-a4f1-f2eae85af48f",
-      "lastWatchedAt": "2026-08-12T18:49:56+00:00",
+      "id": "mal_4f6272d0-15d0-4451-9b19-6c55c8654a52",
+      "lastWatchedAt": "2026-08-12T20:02:28+00:00",
       "mediaType": "anime",
       "progress": {
-        "episodesWatched": 15,
+        "episodesWatched": 17,
         "runtimeMinutes": 24,
         "totalEpisodes": 26
       },
@@ -19,7 +19,7 @@
       "serviceSync": {
         "mal": {
           "externalId": "30",
-          "lastSyncedAt": "2026-08-12T18:49:56+00:00",
+          "lastSyncedAt": "2026-08-12T20:02:28+00:00",
           "status": "synced"
         },
         "simkl": {
@@ -35,8 +35,8 @@
       "source": "mal",
       "status": "watching",
       "title": "Shinseiki Evangelion",
-      "totalWatchedMinutes": 360,
-      "updatedAt": "2026-08-12T18:49:56+00:00"
+      "totalWatchedMinutes": 408,
+      "updatedAt": "2026-08-12T20:02:28+00:00"
     },
     {
       "createdAt": "2025-09-02T07:20:01Z",
