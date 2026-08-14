@@ -1,5 +1,18 @@
 {
   "watchlist": {
+    "174799150": {
+      "currentTime": 0,
+      "duration": 5317.82142300003,
+      "embedId": "174799150",
+      "episode": 1,
+      "lastWatchedAt": 1786696111941,
+      "malAnimeId": 578,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/141208.webp",
+      "season": 1,
+      "title": "Hotaru no Haka",
+      "totalEpisodes": 1,
+      "urlTemplate": "https://x.anizium.co/embed?id=174799150&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
+    },
     "797484498": {
       "currentTime": 1861.005644,
       "duration": 1861.005644,
@@ -225,5 +238,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1786696101680
+  "updatedAt": 1786696122299
 }
