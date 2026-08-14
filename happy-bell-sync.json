@@ -132,6 +132,13 @@
     }
   },
   "mappings": {
+    "174799150": {
+      "malAnimeId": 578,
+      "malTitle": "Hotaru no Haka",
+      "mappedAt": 1786696094105,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/141208.webp",
+      "totalEpisodes": 1
+    },
     "791674752": {
       "malAnimeId": 16498,
       "malTitle": "Shingeki no Kyojin",
@@ -218,5 +225,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1786696081787
+  "updatedAt": 1786696101680
 }
