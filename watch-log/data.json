@@ -1,7 +1,34 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T09:45:02.137Z",
+  "updatedAt": "2026-09-08T12:54:12.039Z",
   "entries": [
+    {
+      "createdAt": "2026-09-08T12:07:35+00:00",
+      "externalIds": {
+        "mal": "62856"
+      },
+      "id": "mal_415b19ce-f8a0-42ab-8a57-be9631640e37",
+      "lastWatchedAt": "2026-09-08T12:07:35+00:00",
+      "mediaType": "anime",
+      "progress": {
+        "episodesWatched": 2,
+        "runtimeMinutes": 24,
+        "totalEpisodes": 13
+      },
+      "score": 0,
+      "serviceSync": {
+        "mal": {
+          "externalId": "62856",
+          "lastSyncedAt": "2026-09-08T12:07:35+00:00",
+          "status": "synced"
+        }
+      },
+      "source": "mal",
+      "status": "watching",
+      "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+      "totalWatchedMinutes": 48,
+      "updatedAt": "2026-09-08T12:07:35+00:00"
+    },
     {
       "createdAt": "2026-08-12T20:02:28+00:00",
       "externalIds": {
