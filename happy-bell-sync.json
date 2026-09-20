@@ -39,6 +39,19 @@
       "totalEpisodes": 26,
       "urlTemplate": "https://x.anizium.co/embed?id=867089702&season=1&episode=18&server=2&skin=art&u=69617296101&plan=1"
     },
+    "981509596": {
+      "currentTime": 19.619478,
+      "duration": 5229.1090330001425,
+      "embedId": "981509596",
+      "episode": 1,
+      "lastWatchedAt": 1789877715699,
+      "malAnimeId": 523,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1110/147278.webp",
+      "season": 1,
+      "title": "Tonari no Totoro",
+      "totalEpisodes": 1,
+      "urlTemplate": "https://x.anizium.co/embed?id=981509596&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
+    },
     "1378101340814782": {
       "currentTime": 74.523332,
       "duration": 700.1180219999975,
@@ -173,6 +186,13 @@
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.webp",
       "totalEpisodes": 26
     },
+    "981509596": {
+      "malAnimeId": 523,
+      "malTitle": "Tonari no Totoro",
+      "mappedAt": 1789877687599,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1110/147278.webp",
+      "totalEpisodes": 1
+    },
     "1868074734775945": {
       "malAnimeId": 10408,
       "malTitle": "Hotarubi no Mori e",
@@ -238,5 +258,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1786696179003
+  "updatedAt": 1789877726244
 }
