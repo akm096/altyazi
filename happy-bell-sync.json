@@ -26,6 +26,19 @@
       "totalEpisodes": 1,
       "urlTemplate": "https://x.anizium.co/embed?id=398980428&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
     },
+    "399683237": {
+      "currentTime": 674.478888,
+      "duration": 1508.2009809999997,
+      "embedId": "399683237",
+      "episode": 1,
+      "lastWatchedAt": 1793214597312,
+      "malAnimeId": 52215,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg",
+      "season": 1,
+      "title": "Chi. Chikyuu no Undou ni Tsuite",
+      "totalEpisodes": 25,
+      "urlTemplate": "https://x.anizium.co/embed?id=399683237&season=1&episode=1&server=2&skin=art&u=69617296101&plan=1"
+    },
     "797484498": {
       "currentTime": 1861.005644,
       "duration": 1861.005644,
@@ -178,6 +191,13 @@
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/141208.webp",
       "totalEpisodes": 1
     },
+    "399683237": {
+      "malAnimeId": 52215,
+      "malTitle": "Chi. Chikyuu no Undou ni Tsuite",
+      "mappedAt": 1793214579577,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg",
+      "totalEpisodes": 25
+    },
     "791674752": {
       "malAnimeId": 16498,
       "malTitle": "Shingeki no Kyojin",
@@ -271,5 +291,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1790164239309
+  "updatedAt": 1793214607875
 }
