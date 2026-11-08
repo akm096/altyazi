@@ -191,6 +191,13 @@
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1485/141208.webp",
       "totalEpisodes": 1
     },
+    "250711086": {
+      "malAnimeId": 42249,
+      "malTitle": "Tokyo Revengers",
+      "totalEpisodes": 24,
+      "posterUrl": "https://cdn.myanimelist.net/images/anime/1839/122012.jpg",
+      "mappedAt": 1794150899389
+    },
     "399683237": {
       "malAnimeId": 52215,
       "malTitle": "Chi. Chikyuu no Undou ni Tsuite",
@@ -291,5 +298,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1794150839719
+  "updatedAt": 1794150909749
 }
