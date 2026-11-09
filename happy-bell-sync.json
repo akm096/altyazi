@@ -21,10 +21,10 @@
       "totalEpisodes": 24,
       "season": 1,
       "episode": 2,
-      "currentTime": 419.544952,
+      "currentTime": 389,
       "duration": 1428.0080000000023,
-      "urlTemplate": "https://x.anizium.co/embed?id=250711086&season=1&episode=2&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1794163576158
+      "urlTemplate": "https://x.anizium.co/embed?id=250711086&season=1&episode=2&server=2&skin=art&u=69617296101&plan=1&t=389",
+      "lastWatchedAt": 1794230149768
     },
     "398980428": {
       "currentTime": 0.374458,
@@ -311,5 +311,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1794163587072
+  "updatedAt": 1794230163439
 }
