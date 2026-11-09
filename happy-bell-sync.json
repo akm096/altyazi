@@ -20,11 +20,11 @@
       "posterUrl": "https://cdn.myanimelist.net/images/anime/1839/122012.jpg",
       "totalEpisodes": 24,
       "season": 1,
-      "episode": 4,
-      "currentTime": 1309.617338,
-      "duration": 1427.9670000000049,
-      "urlTemplate": "https://x.anizium.co/embed?id=250711086&season=1&episode=4&server=2&skin=art&u=69617296101&plan=1",
-      "lastWatchedAt": 1794237144347
+      "episode": 5,
+      "currentTime": 200.465391,
+      "duration": 1428.0080000000025,
+      "urlTemplate": "https://x.anizium.co/embed?id=250711086&season=1&episode=5&server=2&skin=art&u=69617296101&plan=1",
+      "lastWatchedAt": 1794237381025
     },
     "398980428": {
       "currentTime": 0.374458,
@@ -311,5 +311,5 @@
     }
   },
   "deleted_mappings": {},
-  "updatedAt": 1794237155725
+  "updatedAt": 1794237392404
 }
